@@ -11,7 +11,7 @@
             "name": "Escovar os dentes (com ajuda)",
             "description": "Escovar os dentes pela manhã e à noite com auxílio de um adulto"
           },
-          "us": {
+          "en": {
             "name": "Brush teeth (with help)",
             "description": "Brush teeth in the morning and at night with an adult’s help"
           }
@@ -27,7 +27,7 @@
             "name": "Lavar as mãos",
             "description": "Lavar as mãos antes das refeições e após usar o banheiro"
           },
-          "us": {
+          "en": {
             "name": "Wash hands",
             "description": "Wash hands before meals and after using the bathroom"
           }
@@ -43,7 +43,7 @@
             "name": "Comer sentado",
             "description": "Fazer as refeições sentado e com calma"
           },
-          "us": {
+          "en": {
             "name": "Eat while seated",
             "description": "Eat meals seated and calmly"
           }
@@ -59,7 +59,7 @@
             "name": "Rotina do sono",
             "description": "Seguir a rotina: pijama, escovar dentes, história e cama"
           },
-          "us": {
+          "en": {
             "name": "Bedtime routine",
             "description": "Follow the routine: pajamas, brush teeth, story, and bed"
           }
@@ -75,7 +75,7 @@
             "name": "Guardar brinquedos (com ajuda)",
             "description": "Juntar e guardar brinquedos após brincar"
           },
-          "us": {
+          "en": {
             "name": "Put toys away (with help)",
             "description": "Gather and put away toys after playing"
           }
@@ -91,7 +91,7 @@
             "name": "Beber água",
             "description": "Beber água em alguns momentos do dia (com lembretes)"
           },
-          "us": {
+          "en": {
             "name": "Drink water",
             "description": "Drink water a few times during the day (with reminders)"
           }
@@ -107,7 +107,7 @@
             "name": "Vestir pijama (com ajuda)",
             "description": "Colocar o pijama quando for dormir"
           },
-          "us": {
+          "en": {
             "name": "Put on pajamas (with help)",
             "description": "Put on pajamas at bedtime"
           }
@@ -123,7 +123,7 @@
             "name": "Ajudar a guardar livros/peças",
             "description": "Ajudar a colocar livros e peças no lugar"
           },
-          "us": {
+          "en": {
             "name": "Help shelve books/blocks",
             "description": "Help place books and blocks back in their places"
           }
@@ -139,7 +139,7 @@
             "name": "Dizer “por favor” e “obrigado”",
             "description": "Usar palavras mágicas ao pedir e agradecer"
           },
-          "us": {
+          "en": {
             "name": "Say “please” and “thank you”",
             "description": "Use polite words when asking and thanking"
           }
@@ -155,7 +155,7 @@
             "name": "Cooperar na cadeirinha do carro",
             "description": "Ficar na cadeirinha com cinto sem tentar sair"
           },
-          "us": {
+          "en": {
             "name": "Cooperate in car seat",
             "description": "Stay buckled in the car seat without trying to get out"
           }
@@ -173,7 +173,7 @@
             "name": "Compartilhar brinquedos",
             "description": "Dividir brinquedos com outras crianças"
           },
-          "us": {
+          "en": {
             "name": "Share toys",
             "description": "Share toys with other children"
           }
@@ -189,7 +189,7 @@
             "name": "Tentar algo novo",
             "description": "Experimentar um alimento ou atividade nova"
           },
-          "us": {
+          "en": {
             "name": "Try something new",
             "description": "Try a new food or activity"
           }
@@ -205,7 +205,7 @@
             "name": "Usar o penico/vaso",
             "description": "Fazer tentativas na fase de desfralde"
           },
-          "us": {
+          "en": {
             "name": "Use potty/toilet",
             "description": "Make attempts during potty training"
           }
@@ -221,7 +221,7 @@
             "name": "Ajudar sem ser pedido",
             "description": "Ter iniciativa de ajudar um adulto ou amigo"
           },
-          "us": {
+          "en": {
             "name": "Help without being asked",
             "description": "Take initiative to help an adult or friend"
           }
@@ -237,7 +237,7 @@
             "name": "Esperar a vez",
             "description": "Aguardar a vez na brincadeira"
           },
-          "us": {
+          "en": {
             "name": "Wait your turn",
             "description": "Wait for your turn while playing"
           }
@@ -253,7 +253,7 @@
             "name": "Brincar com calma",
             "description": "Brincar sem fazer bagunça grande"
           },
-          "us": {
+          "en": {
             "name": "Play calmly",
             "description": "Play without making a big mess"
           }
@@ -269,7 +269,7 @@
             "name": "Aceitar o “não” sem birra",
             "description": "Respirar e se acalmar quando ouvir “não”"
           },
-          "us": {
+          "en": {
             "name": "Accept “no” without a tantrum",
             "description": "Breathe and calm down when hearing “no”"
           }
@@ -285,7 +285,7 @@
             "name": "Guardar os sapatos no lugar",
             "description": "Deixar os sapatos próximos à porta/prateleira"
           },
-          "us": {
+          "en": {
             "name": "Put shoes away",
             "description": "Place shoes by the door/shelf"
           }
@@ -301,7 +301,7 @@
             "name": "Comer sozinho (treino)",
             "description": "Tentar comer usando talheres com apoio"
           },
-          "us": {
+          "en": {
             "name": "Eat by yourself (practice)",
             "description": "Try eating with utensils with support"
           }
@@ -317,7 +317,7 @@
             "name": "Sair do parquinho sem chorar",
             "description": "Aceitar a hora de ir embora do parquinho"
           },
-          "us": {
+          "en": {
             "name": "Leave the playground calmly",
             "description": "Accept it’s time to leave the playground"
           }
@@ -335,7 +335,7 @@
             "name": "Jogar objetos",
             "description": "Arremessar brinquedos ou objetos"
           },
-          "us": {
+          "en": {
             "name": "Throw objects",
             "description": "Throw toys or objects"
           }
@@ -351,7 +351,7 @@
             "name": "Gritar excessivamente",
             "description": "Gritos prolongados sem necessidade"
           },
-          "us": {
+          "en": {
             "name": "Excessive screaming",
             "description": "Prolonged yelling without need"
           }
@@ -367,7 +367,7 @@
             "name": "Desobedecer regras simples",
             "description": "Ignorar instruções básicas (guardar brinquedos, etc.)"
           },
-          "us": {
+          "en": {
             "name": "Disobey simple rules",
             "description": "Ignore basic instructions (put away toys, etc.)"
           }
@@ -383,7 +383,7 @@
             "name": "Empurrar ou bater",
             "description": "Machucar outra pessoa de propósito"
           },
-          "us": {
+          "en": {
             "name": "Push or hit",
             "description": "Hurt someone on purpose"
           }
@@ -399,7 +399,7 @@
             "name": "Chutar ao trocar fralda/roupa",
             "description": "Dificultar a troca chutando"
           },
-          "us": {
+          "en": {
             "name": "Kick during changing",
             "description": "Make changing difficult by kicking"
           }
@@ -415,7 +415,7 @@
             "name": "Birra prolongada",
             "description": "Fazer birra por muito tempo após aviso"
           },
-          "us": {
+          "en": {
             "name": "Long tantrum",
             "description": "Have a prolonged tantrum after a warning"
           }
@@ -431,7 +431,7 @@
             "name": "Derramar comida de propósito",
             "description": "Jogar comida no chão intencionalmente"
           },
-          "us": {
+          "en": {
             "name": "Spill food on purpose",
             "description": "Throw food on the floor intentionally"
           }
@@ -447,7 +447,7 @@
             "name": "Morder",
             "description": "Morder alguém durante a brincadeira"
           },
-          "us": {
+          "en": {
             "name": "Bite",
             "description": "Bite someone during play"
           }
@@ -463,7 +463,7 @@
             "name": "Desenhar na parede",
             "description": "Rabiscar paredes ou móveis de propósito"
           },
-          "us": {
+          "en": {
             "name": "Draw on the wall",
             "description": "Draw on walls or furniture on purpose"
           }
@@ -479,7 +479,7 @@
             "name": "Correr para a rua (perigo)",
             "description": "Tentar fugir/correr para a rua"
           },
-          "us": {
+          "en": {
             "name": "Run into the street (danger)",
             "description": "Try to run into the street"
           }
@@ -497,7 +497,7 @@
             "name": "Adesivo de recompensa",
             "description": "Ganhar um adesivo para o quadro"
           },
-          "us": {
+          "en": {
             "name": "Reward sticker",
             "description": "Earn a sticker for the chart"
           }
@@ -513,7 +513,7 @@
             "name": "História extra",
             "description": "Ouvir uma história a mais antes de dormir"
           },
-          "us": {
+          "en": {
             "name": "Extra story",
             "description": "Hear one more bedtime story"
           }
@@ -529,7 +529,7 @@
             "name": "Música favorita",
             "description": "Escolher músicas para dançar/cantar"
           },
-          "us": {
+          "en": {
             "name": "Favorite music",
             "description": "Choose songs to dance/sing"
           }
@@ -545,7 +545,7 @@
             "name": "Parquinho rápido",
             "description": "Passeio curto ao parquinho"
           },
-          "us": {
+          "en": {
             "name": "Quick playground time",
             "description": "Short trip to the playground"
           }
@@ -561,7 +561,7 @@
             "name": "Escolher pijama",
             "description": "Decidir qual pijama usar"
           },
-          "us": {
+          "en": {
             "name": "Choose pajamas",
             "description": "Decide which pajamas to wear"
           }
@@ -577,7 +577,7 @@
             "name": "Brincadeira com os pais",
             "description": "Tempo especial de brincadeira com os pais"
           },
-          "us": {
+          "en": {
             "name": "Playtime with parents",
             "description": "Special playtime with parents"
           }
@@ -593,7 +593,7 @@
             "name": "Escolher desenho curto",
             "description": "Assistir um desenho curto"
           },
-          "us": {
+          "en": {
             "name": "Choose a short cartoon",
             "description": "Watch a short cartoon"
           }
@@ -609,7 +609,7 @@
             "name": "Docinho pequeno",
             "description": "Escolher um doce pequeno"
           },
-          "us": {
+          "en": {
             "name": "Small treat",
             "description": "Choose a small sweet"
           }
@@ -625,7 +625,7 @@
             "name": "Bolhas de sabão",
             "description": "Brincar de fazer bolhas de sabão"
           },
-          "us": {
+          "en": {
             "name": "Soap bubbles",
             "description": "Play with soap bubbles"
           }
@@ -641,7 +641,7 @@
             "name": "Passeio de carrinho/bicicleta",
             "description": "Dar uma volta curta de carrinho ou bicicleta"
           },
-          "us": {
+          "en": {
             "name": "Stroller/bike ride",
             "description": "Take a short stroller or bike ride"
           }
@@ -661,7 +661,7 @@
             "name": "Escovar os dentes",
             "description": "Manhã e noite, com supervisão"
           },
-          "us": {
+          "en": {
             "name": "Brush teeth",
             "description": "Morning and night, with supervision"
           }
@@ -677,7 +677,7 @@
             "name": "Arrumar a cama",
             "description": "Organizar o lençol e o travesseiro ao acordar"
           },
-          "us": {
+          "en": {
             "name": "Make the bed",
             "description": "Tidy the sheet and pillow after waking up"
           }
@@ -693,7 +693,7 @@
             "name": "Guardar os brinquedos",
             "description": "Organizar o quarto após brincar"
           },
-          "us": {
+          "en": {
             "name": "Put toys away",
             "description": "Organize the room after playing"
           }
@@ -709,7 +709,7 @@
             "name": "Atividade escolar",
             "description": "Fazer lição de casa ou atividade de desenho/leitura"
           },
-          "us": {
+          "en": {
             "name": "School activity",
             "description": "Do homework or a drawing/reading activity"
           }
@@ -725,7 +725,7 @@
             "name": "Tomar banho",
             "description": "Tomar banho e vestir pijama"
           },
-          "us": {
+          "en": {
             "name": "Take a bath",
             "description": "Take a bath and put on pajamas"
           }
@@ -741,7 +741,7 @@
             "name": "Colocar roupas no cesto",
             "description": "Levar roupas sujas ao cesto"
           },
-          "us": {
+          "en": {
             "name": "Put clothes in the hamper",
             "description": "Take dirty clothes to the hamper"
           }
@@ -757,7 +757,7 @@
             "name": "Ser gentil com irmãos/colegas",
             "description": "Falar com respeito e gentileza"
           },
-          "us": {
+          "en": {
             "name": "Be kind to siblings/classmates",
             "description": "Speak with respect and kindness"
           }
@@ -773,7 +773,7 @@
             "name": "Ler um livro (15 min)",
             "description": "Momento de leitura com ou sem ajuda"
           },
-          "us": {
+          "en": {
             "name": "Read a book (15 min)",
             "description": "Reading time with or without help"
           }
@@ -789,7 +789,7 @@
             "name": "Colocar o prato na pia",
             "description": "Levar o prato e talheres para a pia após comer"
           },
-          "us": {
+          "en": {
             "name": "Take plate to the sink",
             "description": "Bring plate and utensils to the sink after eating"
           }
@@ -805,7 +805,7 @@
             "name": "Conferir a mochila",
             "description": "Ver se cadernos e estojo estão prontos para o dia seguinte"
           },
-          "us": {
+          "en": {
             "name": "Check the backpack",
             "description": "Make sure notebooks and pencil case are ready for the next day"
           }
@@ -823,7 +823,7 @@
             "name": "Ajudar sem ser pedido",
             "description": "Iniciativa em casa (guardar algo, ajudar na mesa)"
           },
-          "us": {
+          "en": {
             "name": "Help without being asked",
             "description": "Take initiative at home (put things away, help at the table)"
           }
@@ -839,7 +839,7 @@
             "name": "Ato de gentileza",
             "description": "Fazer algo gentil para alguém"
           },
-          "us": {
+          "en": {
             "name": "Act of kindness",
             "description": "Do something kind for someone"
           }
@@ -855,7 +855,7 @@
             "name": "Organizar algo sozinho",
             "description": "Organizar prateleira ou livros"
           },
-          "us": {
+          "en": {
             "name": "Organize something independently",
             "description": "Organize a shelf or books"
           }
@@ -871,7 +871,7 @@
             "name": "Cumprir promessa",
             "description": "Manter uma combinação feita"
           },
-          "us": {
+          "en": {
             "name": "Keep a promise",
             "description": "Keep an agreement that was made"
           }
@@ -887,7 +887,7 @@
             "name": "Boa participação na aula",
             "description": "Ouvir o professor e participar com respeito"
           },
-          "us": {
+          "en": {
             "name": "Good participation at school",
             "description": "Listen to the teacher and participate respectfully"
           }
@@ -903,7 +903,7 @@
             "name": "Cuidar de um brinquedo",
             "description": "Guardar e cuidar bem do brinquedo preferido"
           },
-          "us": {
+          "en": {
             "name": "Take care of a toy",
             "description": "Store and take good care of a favorite toy"
           }
@@ -919,7 +919,7 @@
             "name": "Experimento/arte caprichado",
             "description": "Fazer um trabalho manual com atenção"
           },
-          "us": {
+          "en": {
             "name": "Neat craft/experiment",
             "description": "Do a hands‑on project with care"
           }
@@ -935,7 +935,7 @@
             "name": "Ser um bom esportista",
             "description": "Jogar com fair play e respeitar regras"
           },
-          "us": {
+          "en": {
             "name": "Good sportsmanship",
             "description": "Play with fair play and respect rules"
           }
@@ -951,7 +951,7 @@
             "name": "Ler além do combinado",
             "description": "Ler um pouco a mais que o planejado"
           },
-          "us": {
+          "en": {
             "name": "Read beyond the plan",
             "description": "Read a bit more than planned"
           }
@@ -967,7 +967,7 @@
             "name": "Cuidar do animal de estimação",
             "description": "Trocar água ou ajudar a alimentar com supervisão"
           },
-          "us": {
+          "en": {
             "name": "Care for a pet",
             "description": "Change water or help feed with supervision"
           }
@@ -985,7 +985,7 @@
             "name": "Desobedecer",
             "description": "Desobedecer regras combinadas"
           },
-          "us": {
+          "en": {
             "name": "Disobey",
             "description": "Disobey agreed rules"
           }
@@ -1001,7 +1001,7 @@
             "name": "Brigar com irmãos/colegas",
             "description": "Entrar em brigas e empurrões"
           },
-          "us": {
+          "en": {
             "name": "Fight with siblings/classmates",
             "description": "Get into fights and shoving"
           }
@@ -1017,7 +1017,7 @@
             "name": "Mentir",
             "description": "Não falar a verdade"
           },
-          "us": {
+          "en": {
             "name": "Lie",
             "description": "Do not tell the truth"
           }
@@ -1033,7 +1033,7 @@
             "name": "Não guardar brinquedos",
             "description": "Deixar bagunça propositalmente"
           },
-          "us": {
+          "en": {
             "name": "Do not put toys away",
             "description": "Leave a mess on purpose"
           }
@@ -1049,7 +1049,7 @@
             "name": "Respeito no trânsito escolar",
             "description": "Correr no corredor/empurrar na saída"
           },
-          "us": {
+          "en": {
             "name": "School transit disrespect",
             "description": "Run in the hallway/push at dismissal"
           }
@@ -1065,7 +1065,7 @@
             "name": "Responder de forma rude",
             "description": "Responder com grosseria para adultos"
           },
-          "us": {
+          "en": {
             "name": "Talk back rudely",
             "description": "Respond rudely to adults"
           }
@@ -1081,7 +1081,7 @@
             "name": "Quebrar regras de tela",
             "description": "Usar telas fora do combinado"
           },
-          "us": {
+          "en": {
             "name": "Break screen rules",
             "description": "Use screens outside agreed times"
           }
@@ -1097,7 +1097,7 @@
             "name": "Faltar com cuidado com materiais",
             "description": "Estragar material escolar de propósito"
           },
-          "us": {
+          "en": {
             "name": "Mistreat materials",
             "description": "Damage school materials on purpose"
           }
@@ -1113,7 +1113,7 @@
             "name": "Provocar colegas",
             "description": "Provocar ou zombar de colegas"
           },
-          "us": {
+          "en": {
             "name": "Tease classmates",
             "description": "Tease or mock classmates"
           }
@@ -1129,7 +1129,7 @@
             "name": "Não ouvir após aviso",
             "description": "Ignorar instruções mesmo após lembrete"
           },
-          "us": {
+          "en": {
             "name": "Ignore after warning",
             "description": "Ignore instructions even after a reminder"
           }
@@ -1147,7 +1147,7 @@
             "name": "30 min extras de TV",
             "description": "Assistir TV por mais 30 minutos"
           },
-          "us": {
+          "en": {
             "name": "30 extra minutes of TV",
             "description": "Watch TV for 30 more minutes"
           }
@@ -1163,7 +1163,7 @@
             "name": "Escolher jantar",
             "description": "Decidir o que a família vai jantar"
           },
-          "us": {
+          "en": {
             "name": "Choose dinner",
             "description": "Decide what the family will have for dinner"
           }
@@ -1179,7 +1179,7 @@
             "name": "Doce especial",
             "description": "Escolher um doce ou sobremesa"
           },
-          "us": {
+          "en": {
             "name": "Special treat",
             "description": "Choose a dessert or sweet"
           }
@@ -1195,7 +1195,7 @@
             "name": "Atividade com papai/mamãe",
             "description": "Tempo especial com os pais"
           },
-          "us": {
+          "en": {
             "name": "Activity with mom/dad",
             "description": "Special time with parents"
           }
@@ -1211,7 +1211,7 @@
             "name": "Brincadeira de tabuleiro",
             "description": "Jogar um jogo de tabuleiro em família"
           },
-          "us": {
+          "en": {
             "name": "Board game time",
             "description": "Play a board game with family"
           }
@@ -1227,7 +1227,7 @@
             "name": "Passeio de bicicleta",
             "description": "Dar uma volta de bicicleta"
           },
-          "us": {
+          "en": {
             "name": "Bike ride",
             "description": "Go for a bike ride"
           }
@@ -1243,7 +1243,7 @@
             "name": "Amigo para brincar",
             "description": "Convidar um amigo para brincar por 1 hora"
           },
-          "us": {
+          "en": {
             "name": "Playdate",
             "description": "Invite a friend to play for 1 hour"
           }
@@ -1259,7 +1259,7 @@
             "name": "Escolher história do dia",
             "description": "Escolher o livro da leitura noturna"
           },
-          "us": {
+          "en": {
             "name": "Choose the story",
             "description": "Pick the bedtime book"
           }
@@ -1275,7 +1275,7 @@
             "name": "Figurinhas/adesivos",
             "description": "Ganhar algumas figurinhas para coleção"
           },
-          "us": {
+          "en": {
             "name": "Stickers",
             "description": "Get some stickers for a collection"
           }
@@ -1291,7 +1291,7 @@
             "name": "Parquinho estendido",
             "description": "Ficar mais tempo no parquinho"
           },
-          "us": {
+          "en": {
             "name": "Extended playground time",
             "description": "Stay longer at the playground"
           }
@@ -1311,7 +1311,7 @@
             "name": "Dever de casa completo",
             "description": "Concluir tarefas escolares do dia"
           },
-          "us": {
+          "en": {
             "name": "Homework completed",
             "description": "Finish the day’s school assignments"
           }
@@ -1327,7 +1327,7 @@
             "name": "Ler 20 minutos",
             "description": "Leitura diária de livro ou HQ"
           },
-          "us": {
+          "en": {
             "name": "Read 20 minutes",
             "description": "Daily reading of a book or comic"
           }
@@ -1343,7 +1343,7 @@
             "name": "Arrumar mochila",
             "description": "Checar cadernos, livros e estojo"
           },
-          "us": {
+          "en": {
             "name": "Pack backpack",
             "description": "Check notebooks, books, and pencil case"
           }
@@ -1359,7 +1359,7 @@
             "name": "Ajudar na mesa",
             "description": "Apoiar em pôr/retirar a mesa"
           },
-          "us": {
+          "en": {
             "name": "Help with the table",
             "description": "Help set/clear the table"
           }
@@ -1375,7 +1375,7 @@
             "name": "Tomar banho e higiene",
             "description": "Banho, escovar dentes e pentear cabelo"
           },
-          "us": {
+          "en": {
             "name": "Bath and hygiene",
             "description": "Bath, brush teeth, and comb hair"
           }
@@ -1391,7 +1391,7 @@
             "name": "Organizar o quarto",
             "description": "Manter o quarto organizado"
           },
-          "us": {
+          "en": {
             "name": "Tidy your room",
             "description": "Keep the bedroom organized"
           }
@@ -1407,7 +1407,7 @@
             "name": "Preparar roupa do dia seguinte",
             "description": "Separar uniforme/roupas para amanhã"
           },
-          "us": {
+          "en": {
             "name": "Prepare clothes for tomorrow",
             "description": "Set out uniform/clothes for the next day"
           }
@@ -1423,7 +1423,7 @@
             "name": "Praticar um hobby (20 min)",
             "description": "Instrumento, desenho, xadrez, etc."
           },
-          "us": {
+          "en": {
             "name": "Practice a hobby (20 min)",
             "description": "Instrument, drawing, chess, etc."
           }
@@ -1439,7 +1439,7 @@
             "name": "Atividade física curta",
             "description": "Pular corda, correr, brincar ao ar livre"
           },
-          "us": {
+          "en": {
             "name": "Short physical activity",
             "description": "Jump rope, run, play outside"
           }
@@ -1455,7 +1455,7 @@
             "name": "Revisar agenda",
             "description": "Ver agenda/recados da escola"
           },
-          "us": {
+          "en": {
             "name": "Review planner",
             "description": "Check school planner/notes"
           }
@@ -1473,7 +1473,7 @@
             "name": "Trabalho escolar excelente",
             "description": "Nota ou feedback muito bom"
           },
-          "us": {
+          "en": {
             "name": "Excellent schoolwork",
             "description": "Grade or feedback is very good"
           }
@@ -1489,7 +1489,7 @@
             "name": "Resolver conflito com diálogo",
             "description": "Resolver briga conversando e pedindo desculpas"
           },
-          "us": {
+          "en": {
             "name": "Resolve conflict with dialogue",
             "description": "Solve a fight by talking and apologizing"
           }
@@ -1505,7 +1505,7 @@
             "name": "Aprender algo novo",
             "description": "Demonstrar curiosidade e aprendizado extra"
           },
-          "us": {
+          "en": {
             "name": "Learn something new",
             "description": "Show curiosity and extra learning"
           }
@@ -1521,7 +1521,7 @@
             "name": "Responsabilidade com materiais",
             "description": "Cuidar dos materiais escolares sem perder"
           },
-          "us": {
+          "en": {
             "name": "Responsibility with materials",
             "description": "Care for school supplies without losing them"
           }
@@ -1537,7 +1537,7 @@
             "name": "Ajuda em casa além do combinado",
             "description": "Fazer uma tarefa extra espontaneamente"
           },
-          "us": {
+          "en": {
             "name": "Help at home beyond the plan",
             "description": "Do an extra chore spontaneously"
           }
@@ -1553,7 +1553,7 @@
             "name": "Gentileza com colegas",
             "description": "Apoiar um colega que precisa de ajuda"
           },
-          "us": {
+          "en": {
             "name": "Kindness to classmates",
             "description": "Support a classmate who needs help"
           }
@@ -1569,7 +1569,7 @@
             "name": "Boa organização semanal",
             "description": "Manter mochila/material organizado a semana toda"
           },
-          "us": {
+          "en": {
             "name": "Good weekly organization",
             "description": "Keep backpack/material organized all week"
           }
@@ -1585,7 +1585,7 @@
             "name": "Leitura além da meta",
             "description": "Ler mais páginas do que o combinado"
           },
-          "us": {
+          "en": {
             "name": "Reading beyond the goal",
             "description": "Read more pages than planned"
           }
@@ -1601,7 +1601,7 @@
             "name": "Criatividade em projeto",
             "description": "Entregar um trabalho com criatividade"
           },
-          "us": {
+          "en": {
             "name": "Creativity in a project",
             "description": "Deliver a creative piece of work"
           }
@@ -1617,7 +1617,7 @@
             "name": "Cuidar do quarto do irmão",
             "description": "Ajudar irmão/irmã a arrumar o quarto"
           },
-          "us": {
+          "en": {
             "name": "Help sibling’s room",
             "description": "Help brother/sister tidy their room"
           }
@@ -1635,7 +1635,7 @@
             "name": "Não fazer dever de casa",
             "description": "Faltou ou se recusou a fazer"
           },
-          "us": {
+          "en": {
             "name": "Did not do homework",
             "description": "Skipped or refused to do homework"
           }
@@ -1651,7 +1651,7 @@
             "name": "Falta de respeito",
             "description": "Falar de forma rude ou desrespeitosa"
           },
-          "us": {
+          "en": {
             "name": "Disrespect",
             "description": "Speak rudely or disrespectfully"
           }
@@ -1667,7 +1667,7 @@
             "name": "Quebrar algo de propósito",
             "description": "Danificar objetos intencionalmente"
           },
-          "us": {
+          "en": {
             "name": "Break something on purpose",
             "description": "Intentionally damage objects"
           }
@@ -1683,7 +1683,7 @@
             "name": "Ignorar horários combinados",
             "description": "Não cumprir horários de estudo/sono"
           },
-          "us": {
+          "en": {
             "name": "Ignore set times",
             "description": "Do not follow study/bedtime schedules"
           }
@@ -1699,7 +1699,7 @@
             "name": "Uso de tela sem permissão",
             "description": "Usar dispositivos sem autorização"
           },
-          "us": {
+          "en": {
             "name": "Screen time without permission",
             "description": "Use devices without permission"
           }
@@ -1715,7 +1715,7 @@
             "name": "Provocar/zoar colegas",
             "description": "Fazer bullying verbal ou zombar"
           },
-          "us": {
+          "en": {
             "name": "Tease/bully classmates",
             "description": "Verbal bullying or mocking"
           }
@@ -1731,7 +1731,7 @@
             "name": "Mentir conscientemente",
             "description": "Mentira para evitar responsabilidade"
           },
-          "us": {
+          "en": {
             "name": "Conscious lying",
             "description": "Lie to avoid responsibility"
           }
@@ -1747,7 +1747,7 @@
             "name": "Não cuidar do material escolar",
             "description": "Perder/largar materiais repetidamente"
           },
-          "us": {
+          "en": {
             "name": "Neglect school supplies",
             "description": "Lose/leave materials repeatedly"
           }
@@ -1763,7 +1763,7 @@
             "name": "Desobedecer regras de segurança",
             "description": "Descumprir regras em locais públicos"
           },
-          "us": {
+          "en": {
             "name": "Disobey safety rules",
             "description": "Break rules in public places"
           }
@@ -1779,7 +1779,7 @@
             "name": "Desorganização intencional",
             "description": "Deixar bagunça grande de propósito"
           },
-          "us": {
+          "en": {
             "name": "Intentional mess",
             "description": "Leave a big mess on purpose"
           }
@@ -1797,7 +1797,7 @@
             "name": "Amigo em casa",
             "description": "Convidar um amigo para brincar"
           },
-          "us": {
+          "en": {
             "name": "Friend over",
             "description": "Invite a friend to play"
           }
@@ -1813,7 +1813,7 @@
             "name": "Dormir mais tarde (30–60 min)",
             "description": "Ficar acordado um pouco a mais"
           },
-          "us": {
+          "en": {
             "name": "Stay up later (30–60 min)",
             "description": "Stay up a bit longer"
           }
@@ -1829,7 +1829,7 @@
             "name": "Brinquedo pequeno",
             "description": "Até R$ 20"
           },
-          "us": {
+          "en": {
             "name": "Small toy",
             "description": "Up to the set small budget"
           }
@@ -1845,7 +1845,7 @@
             "name": "Cinema em família",
             "description": "Ir ao cinema com a família"
           },
-          "us": {
+          "en": {
             "name": "Family movie",
             "description": "Go to the movies with family"
           }
@@ -1861,7 +1861,7 @@
             "name": "Passeio de fim de semana",
             "description": "Escolher um passeio simples"
           },
-          "us": {
+          "en": {
             "name": "Weekend outing",
             "description": "Choose a simple outing"
           }
@@ -1877,7 +1877,7 @@
             "name": "Jogo de tabuleiro novo (pequeno)",
             "description": "Um jogo simples para jogar em família"
           },
-          "us": {
+          "en": {
             "name": "New small board game",
             "description": "A simple game to play with family"
           }
@@ -1893,7 +1893,7 @@
             "name": "Atividade esportiva escolhida",
             "description": "Escolher o esporte do dia"
           },
-          "us": {
+          "en": {
             "name": "Chosen sports activity",
             "description": "Pick the day’s sport"
           }
@@ -1909,7 +1909,7 @@
             "name": "Tempo extra de jogo (30 min)",
             "description": "Mais 30 minutos de videogame"
           },
-          "us": {
+          "en": {
             "name": "Extra game time (30 min)",
             "description": "30 more minutes of video games"
           }
@@ -1925,7 +1925,7 @@
             "name": "Café da manhã especial",
             "description": "Escolher um café da manhã divertido"
           },
-          "us": {
+          "en": {
             "name": "Special breakfast",
             "description": "Choose a fun breakfast"
           }
@@ -1941,7 +1941,7 @@
             "name": "Dia do chef infantil",
             "description": "Ajudar a preparar uma receita simples"
           },
-          "us": {
+          "en": {
             "name": "Kid chef day",
             "description": "Help prepare a simple recipe"
           }
@@ -1961,7 +1961,7 @@
             "name": "Estudo planejado (30–40 min)",
             "description": "Planejar e cumprir bloco de estudos"
           },
-          "us": {
+          "en": {
             "name": "Planned study (30–40 min)",
             "description": "Plan and complete a study block"
           }
@@ -1977,7 +1977,7 @@
             "name": "Ler 30 minutos",
             "description": "Leitura diária de livro/estudo"
           },
-          "us": {
+          "en": {
             "name": "Read 30 minutes",
             "description": "Daily reading of a book/study"
           }
@@ -1993,7 +1993,7 @@
             "name": "Tarefa doméstica",
             "description": "Ex.: tirar o lixo ou varrer área pequena"
           },
-          "us": {
+          "en": {
             "name": "Household chore",
             "description": "E.g., take out trash or sweep a small area"
           }
@@ -2009,7 +2009,7 @@
             "name": "Organizar material escolar",
             "description": "Mochila, estojo, cadernos atualizados"
           },
-          "us": {
+          "en": {
             "name": "Organize school materials",
             "description": "Backpack, pencil case, notebooks up to date"
           }
@@ -2025,7 +2025,7 @@
             "name": "Higiene e banho sem lembrete",
             "description": "Cumprir rotina de higiene de forma autônoma"
           },
-          "us": {
+          "en": {
             "name": "Hygiene and bath without reminders",
             "description": "Complete hygiene routine independently"
           }
@@ -2041,7 +2041,7 @@
             "name": "Preparar lanche/garrafinha",
             "description": "Separar lanche e água para o dia seguinte"
           },
-          "us": {
+          "en": {
             "name": "Prepare snack/water bottle",
             "description": "Set snack and water for the next day"
           }
@@ -2057,7 +2057,7 @@
             "name": "Revisar objetivos do dia",
             "description": "Listar 3 metas e checar ao final"
           },
-          "us": {
+          "en": {
             "name": "Review daily goals",
             "description": "List 3 goals and check at the end"
           }
@@ -2073,7 +2073,7 @@
             "name": "Praticar atividade física (20–30 min)",
             "description": "Caminhada, esporte ou treino leve"
           },
-          "us": {
+          "en": {
             "name": "Physical activity (20–30 min)",
             "description": "Walk, sport, or light workout"
           }
@@ -2089,7 +2089,7 @@
             "name": "Apoiar um familiar",
             "description": "Ajudar alguém em casa de forma útil"
           },
-          "us": {
+          "en": {
             "name": "Support a family member",
             "description": "Help someone at home in a useful way"
           }
@@ -2105,7 +2105,7 @@
             "name": "Tempo sem telas (30–60 min)",
             "description": "Brincar/ler/criar sem dispositivos"
           },
-          "us": {
+          "en": {
             "name": "Screen‑free time (30–60 min)",
             "description": "Play/read/create without devices"
           }
@@ -2123,7 +2123,7 @@
             "name": "Projeto escolar de destaque",
             "description": "Entrega caprichada com ótima avaliação"
           },
-          "us": {
+          "en": {
             "name": "Outstanding school project",
             "description": "Well‑crafted work with great evaluation"
           }
@@ -2139,7 +2139,7 @@
             "name": "Apoiar irmão mais novo",
             "description": "Ajudar com paciência e cuidado"
           },
-          "us": {
+          "en": {
             "name": "Support younger sibling",
             "description": "Help with patience and care"
           }
@@ -2155,7 +2155,7 @@
             "name": "Auto‑organização exemplar",
             "description": "Manter rotina semanal bem organizada"
           },
-          "us": {
+          "en": {
             "name": "Exemplary self‑organization",
             "description": "Keep a well‑organized weekly routine"
           }
@@ -2171,7 +2171,7 @@
             "name": "Autocontrole em conflito",
             "description": "Resolver desentendimentos sem gritar"
           },
-          "us": {
+          "en": {
             "name": "Self‑control in conflict",
             "description": "Resolve disagreements without yelling"
           }
@@ -2187,7 +2187,7 @@
             "name": "Leitura adicional",
             "description": "Ler além da meta definida"
           },
-          "us": {
+          "en": {
             "name": "Extra reading",
             "description": "Read beyond the set goal"
           }
@@ -2203,7 +2203,7 @@
             "name": "Ajuda voluntária em casa",
             "description": "Fazer tarefa extra sem ser pedido"
           },
-          "us": {
+          "en": {
             "name": "Voluntary help at home",
             "description": "Do an extra chore without being asked"
           }
@@ -2219,7 +2219,7 @@
             "name": "Gestão do tempo eficaz",
             "description": "Terminar tarefas antes do prazo"
           },
-          "us": {
+          "en": {
             "name": "Effective time management",
             "description": "Finish tasks ahead of time"
           }
@@ -2235,7 +2235,7 @@
             "name": "Criatividade aplicada",
             "description": "Criar algo (texto, desenho, protótipo)"
           },
-          "us": {
+          "en": {
             "name": "Applied creativity",
             "description": "Create something (text, drawing, prototype)"
           }
@@ -2251,7 +2251,7 @@
             "name": "Atividade física extra",
             "description": "Praticar exercício além do previsto"
           },
-          "us": {
+          "en": {
             "name": "Extra physical activity",
             "description": "Exercise beyond what was planned"
           }
@@ -2267,7 +2267,7 @@
             "name": "Responsabilidade com dinheiro",
             "description": "Guardar parte da mesada/valor recebido"
           },
-          "us": {
+          "en": {
             "name": "Money responsibility",
             "description": "Save part of allowance/money received"
           }
@@ -2285,7 +2285,7 @@
             "name": "Desrespeito consciente",
             "description": "Responder ou agir de forma desrespeitosa"
           },
-          "us": {
+          "en": {
             "name": "Conscious disrespect",
             "description": "Respond or act disrespectfully"
           }
@@ -2301,7 +2301,7 @@
             "name": "Não cumprir tarefa doméstica",
             "description": "Ignorar tarefa combinada"
           },
-          "us": {
+          "en": {
             "name": "Did not do household chore",
             "description": "Ignore an agreed chore"
           }
@@ -2317,7 +2317,7 @@
             "name": "Atrasos repetidos",
             "description": "Repetir atrasos em horários combinados"
           },
-          "us": {
+          "en": {
             "name": "Repeated lateness",
             "description": "Repeatedly be late to agreed times"
           }
@@ -2333,7 +2333,7 @@
             "name": "Quebra de regras de tela",
             "description": "Usar dispositivo fora dos limites combinados"
           },
-          "us": {
+          "en": {
             "name": "Break screen rules",
             "description": "Use device beyond agreed limits"
           }
@@ -2349,7 +2349,7 @@
             "name": "Cópia/cola em tarefas",
             "description": "Plágio ou desonestidade acadêmica"
           },
-          "us": {
+          "en": {
             "name": "Copy/paste in assignments",
             "description": "Plagiarism or academic dishonesty"
           }
@@ -2365,7 +2365,7 @@
             "name": "Descuido com material",
             "description": "Estragar ou perder materiais por descuido"
           },
-          "us": {
+          "en": {
             "name": "Carelessness with materials",
             "description": "Damage/lose materials due to carelessness"
           }
@@ -2381,7 +2381,7 @@
             "name": "Desorganização recorrente",
             "description": "Deixar mochila e quarto bagunçados"
           },
-          "us": {
+          "en": {
             "name": "Recurring disorganization",
             "description": "Leave backpack and room messy"
           }
@@ -2397,7 +2397,7 @@
             "name": "Provocar irmãos/colegas",
             "description": "Provocar, debochar ou zombar"
           },
-          "us": {
+          "en": {
             "name": "Tease siblings/classmates",
             "description": "Provoke, sneer, or mock"
           }
@@ -2413,7 +2413,7 @@
             "name": "Desobedecer regras de segurança",
             "description": "Brincar em área proibida/perigosa"
           },
-          "us": {
+          "en": {
             "name": "Disobey safety rules",
             "description": "Play in forbidden/dangerous areas"
           }
@@ -2429,7 +2429,7 @@
             "name": "Promessa não cumprida",
             "description": "Descumprir um combinado importante"
           },
-          "us": {
+          "en": {
             "name": "Broken promise",
             "description": "Fail to keep an important agreement"
           }
@@ -2447,7 +2447,7 @@
             "name": "Tempo extra de tela (45 min)",
             "description": "Mais tempo em jogo/série"
           },
-          "us": {
+          "en": {
             "name": "Extra screen time (45 min)",
             "description": "More time for games/shows"
           }
@@ -2463,7 +2463,7 @@
             "name": "Escolher atividade do fim de semana",
             "description": "Passeio ou jogo em família"
           },
-          "us": {
+          "en": {
             "name": "Choose weekend activity",
             "description": "Outing or family game"
           }
@@ -2479,7 +2479,7 @@
             "name": "Livro novo",
             "description": "Escolher um livro"
           },
-          "us": {
+          "en": {
             "name": "New book",
             "description": "Choose a book"
           }
@@ -2495,7 +2495,7 @@
             "name": "Jantar escolhido",
             "description": "Escolher o cardápio do jantar"
           },
-          "us": {
+          "en": {
             "name": "Chosen dinner",
             "description": "Pick the dinner menu"
           }
@@ -2511,7 +2511,7 @@
             "name": "Kit de artes",
             "description": "Materiais simples para um projeto criativo"
           },
-          "us": {
+          "en": {
             "name": "Arts kit",
             "description": "Simple materials for a creative project"
           }
@@ -2527,7 +2527,7 @@
             "name": "Passeio esportivo",
             "description": "Ir praticar um esporte preferido"
           },
-          "us": {
+          "en": {
             "name": "Sports outing",
             "description": "Go practice a favorite sport"
           }
@@ -2543,7 +2543,7 @@
             "name": "Novo acessório escolar",
             "description": "Estojo/caderno/adesivos para a escola"
           },
-          "us": {
+          "en": {
             "name": "New school accessory",
             "description": "Pencil case/notebook/stickers"
           }
@@ -2559,7 +2559,7 @@
             "name": "Sessão de cinema em casa",
             "description": "Filme com pipoca em família"
           },
-          "us": {
+          "en": {
             "name": "Home movie night",
             "description": "Movie with popcorn at home"
           }
@@ -2575,7 +2575,7 @@
             "name": "Dormir mais tarde (até 1h)",
             "description": "Ficar acordado um pouco a mais"
           },
-          "us": {
+          "en": {
             "name": "Stay up later (up to 1h)",
             "description": "Stay awake a bit longer"
           }
@@ -2591,7 +2591,7 @@
             "name": "Brinquedo médio",
             "description": "Item combinado de valor moderado"
           },
-          "us": {
+          "en": {
             "name": "Medium toy",
             "description": "Agreed item of moderate value"
           }
@@ -2611,7 +2611,7 @@
             "name": "Bloco de estudos (45–60 min)",
             "description": "Estudar com foco e sem distrações"
           },
-          "us": {
+          "en": {
             "name": "Study block (45–60 min)",
             "description": "Study with focus and without distractions"
           }
@@ -2627,7 +2627,7 @@
             "name": "Responsabilidade no quarto",
             "description": "Manter quarto organizado diariamente"
           },
-          "us": {
+          "en": {
             "name": "Bedroom responsibility",
             "description": "Keep bedroom organized daily"
           }
@@ -2643,7 +2643,7 @@
             "name": "Atividade física leve",
             "description": "Caminhada, esporte ou exercício"
           },
-          "us": {
+          "en": {
             "name": "Light physical activity",
             "description": "Walk, sport, or exercise"
           }
@@ -2659,7 +2659,7 @@
             "name": "Ajudar em tarefa da casa",
             "description": "Ex.: louça do jantar, varrer sala"
           },
-          "us": {
+          "en": {
             "name": "Help with a house chore",
             "description": "E.g., dinner dishes, sweep the living room"
           }
@@ -2675,7 +2675,7 @@
             "name": "Planejamento semanal",
             "description": "Definir metas e prazos da semana"
           },
-          "us": {
+          "en": {
             "name": "Weekly planning",
             "description": "Set weekly goals and deadlines"
           }
@@ -2691,7 +2691,7 @@
             "name": "Tempo sem telas (1h)",
             "description": "Atividade offline criativa/leitora"
           },
-          "us": {
+          "en": {
             "name": "Screen‑free time (1h)",
             "description": "Offline creative/reading activity"
           }
@@ -2707,7 +2707,7 @@
             "name": "Prática de habilidade",
             "description": "Estudar música, idioma, código etc."
           },
-          "us": {
+          "en": {
             "name": "Skill practice",
             "description": "Practice music, language, coding, etc."
           }
@@ -2723,7 +2723,7 @@
             "name": "Organização financeira",
             "description": "Registrar gastos/mesada e poupar parte"
           },
-          "us": {
+          "en": {
             "name": "Financial organization",
             "description": "Track expenses/allowance and save a part"
           }
@@ -2739,7 +2739,7 @@
             "name": "Autocuidado e higiene",
             "description": "Rotina de banho, pele, cabelo"
           },
-          "us": {
+          "en": {
             "name": "Self‑care and hygiene",
             "description": "Bath, skin, and hair routine"
           }
@@ -2755,7 +2755,7 @@
             "name": "Apoio à família",
             "description": "Ajudar alguém em casa de forma útil"
           },
-          "us": {
+          "en": {
             "name": "Family support",
             "description": "Help someone at home in a useful way"
           }
@@ -2773,7 +2773,7 @@
             "name": "Proatividade nos estudos",
             "description": "Rever matéria, fazer resumo extra"
           },
-          "us": {
+          "en": {
             "name": "Proactive studying",
             "description": "Review content, make an extra summary"
           }
@@ -2789,7 +2789,7 @@
             "name": "Mediação de conflito",
             "description": "Ajudar a resolver conflito com maturidade"
           },
-          "us": {
+          "en": {
             "name": "Conflict mediation",
             "description": "Help resolve a conflict maturely"
           }
@@ -2805,7 +2805,7 @@
             "name": "Projeto autoral",
             "description": "Criar um projeto pessoal e concluir etapa"
           },
-          "us": {
+          "en": {
             "name": "Personal project",
             "description": "Create a personal project and complete a milestone"
           }
@@ -2821,7 +2821,7 @@
             "name": "Apoio a colegas/irmãos",
             "description": "Ajudar em tarefa difícil com paciência"
           },
-          "us": {
+          "en": {
             "name": "Support peers/siblings",
             "description": "Help with a difficult task patiently"
           }
@@ -2837,7 +2837,7 @@
             "name": "Gestão do tempo exemplar",
             "description": "Cumprir prazos sem deixar para última hora"
           },
-          "us": {
+          "en": {
             "name": "Exemplary time management",
             "description": "Meet deadlines without procrastination"
           }
@@ -2853,7 +2853,7 @@
             "name": "Saúde e bem‑estar",
             "description": "Cumprir plano de sono/atividade física"
           },
-          "us": {
+          "en": {
             "name": "Health and wellness",
             "description": "Stick to sleep/physical activity plan"
           }
@@ -2869,7 +2869,7 @@
             "name": "Responsabilidade digital",
             "description": "Usar redes com respeito e segurança"
           },
-          "us": {
+          "en": {
             "name": "Digital responsibility",
             "description": "Use social media with respect and safety"
           }
@@ -2885,7 +2885,7 @@
             "name": "Leitura de aprofundamento",
             "description": "Ler capítulo/artigo além do proposto"
           },
-          "us": {
+          "en": {
             "name": "In‑depth reading",
             "description": "Read a chapter/article beyond what was assigned"
           }
@@ -2901,7 +2901,7 @@
             "name": "Voluntariado/ajuda comunitária",
             "description": "Apoiar iniciativa local ou escolar"
           },
-          "us": {
+          "en": {
             "name": "Volunteering/community help",
             "description": "Support a local or school initiative"
           }
@@ -2917,7 +2917,7 @@
             "name": "Autocontrole emocional",
             "description": "Lidar com frustração sem explosões"
           },
-          "us": {
+          "en": {
             "name": "Emotional self‑control",
             "description": "Handle frustration without outbursts"
           }
@@ -2935,7 +2935,7 @@
             "name": "Faltar com respeito",
             "description": "Ironia, grosseria, xingamentos"
           },
-          "us": {
+          "en": {
             "name": "Disrespect",
             "description": "Sarcasm, rudeness, insults"
           }
@@ -2951,7 +2951,7 @@
             "name": "Descumprir acordos",
             "description": "Não cumprir combinados de casa/estudo"
           },
-          "us": {
+          "en": {
             "name": "Break agreements",
             "description": "Fail to follow home/study agreements"
           }
@@ -2967,7 +2967,7 @@
             "name": "Plágio/desonestidade acadêmica",
             "description": "Copiar trabalho/tarefa de terceiros"
           },
-          "us": {
+          "en": {
             "name": "Plagiarism/academic dishonesty",
             "description": "Copy others’ work/assignments"
           }
@@ -2983,7 +2983,7 @@
             "name": "Abuso de telas",
             "description": "Ultrapassar limites de tempo de forma consciente"
           },
-          "us": {
+          "en": {
             "name": "Screen overuse",
             "description": "Knowingly exceed time limits"
           }
@@ -2999,7 +2999,7 @@
             "name": "Risco à segurança",
             "description": "Prática perigosa (ex.: pegar carona sem avisar)"
           },
-          "us": {
+          "en": {
             "name": "Safety risk",
             "description": "Dangerous practice (e.g., leaving without notice)"
           }
@@ -3015,7 +3015,7 @@
             "name": "Bullying/hostilidade online",
             "description": "Ofensas, exposição ou exclusão de colegas"
           },
-          "us": {
+          "en": {
             "name": "Bullying/online hostility",
             "description": "Offenses, exposure, or exclusion of peers"
           }
@@ -3031,7 +3031,7 @@
             "name": "Quebra de confiança",
             "description": "Mentir para evitar consequências importantes"
           },
-          "us": {
+          "en": {
             "name": "Breach of trust",
             "description": "Lie to avoid important consequences"
           }
@@ -3047,7 +3047,7 @@
             "name": "Desleixo com tarefas de casa",
             "description": "Não realizar tarefas atribuídas repetidamente"
           },
-          "us": {
+          "en": {
             "name": "Neglect home chores",
             "description": "Repeatedly not perform assigned chores"
           }
@@ -3063,7 +3063,7 @@
             "name": "Danos intencionais",
             "description": "Quebrar/riscar algo de propósito"
           },
-          "us": {
+          "en": {
             "name": "Intentional damage",
             "description": "Break/scratch something on purpose"
           }
@@ -3079,7 +3079,7 @@
             "name": "Desrespeito a limites pessoais",
             "description": "Invadir privacidade/limites de familiares"
           },
-          "us": {
+          "en": {
             "name": "Disrespecting personal boundaries",
             "description": "Invade family members’ privacy/boundaries"
           }
@@ -3097,7 +3097,7 @@
             "name": "Tempo de jogo extra (1h)",
             "description": "Jogar videogame por mais uma hora"
           },
-          "us": {
+          "en": {
             "name": "Extra game time (1h)",
             "description": "Play video games for one more hour"
           }
@@ -3113,7 +3113,7 @@
             "name": "Compra de item desejado",
             "description": "Acordado previamente (valor moderado)"
           },
-          "us": {
+          "en": {
             "name": "Purchase desired item",
             "description": "Pre‑agreed item (moderate value)"
           }
@@ -3129,7 +3129,7 @@
             "name": "Passeio com amigos",
             "description": "Atividade de lazer combinada"
           },
-          "us": {
+          "en": {
             "name": "Outing with friends",
             "description": "Agreed leisure activity"
           }
@@ -3145,7 +3145,7 @@
             "name": "Ingresso para evento escolar",
             "description": "Show/feira/atividade especial"
           },
-          "us": {
+          "en": {
             "name": "School event ticket",
             "description": "Show/fair/special activity"
           }
@@ -3161,7 +3161,7 @@
             "name": "Curso/atividade curta",
             "description": "Aula única de interesse (ex.: culinária)"
           },
-          "us": {
+          "en": {
             "name": "Short course/activity",
             "description": "One‑off class of interest (e.g., cooking)"
           }
@@ -3177,7 +3177,7 @@
             "name": "Acessório tecnológico",
             "description": "Fone simples, cabo novo, etc."
           },
-          "us": {
+          "en": {
             "name": "Tech accessory",
             "description": "Simple earphones, new cable, etc."
           }
@@ -3193,7 +3193,7 @@
             "name": "Roupa/acessório",
             "description": "Peça combinada de valor moderado"
           },
-          "us": {
+          "en": {
             "name": "Clothing/accessory",
             "description": "Agreed clothing/accessory of moderate value"
           }
@@ -3209,7 +3209,7 @@
             "name": "Dia de escolha em família",
             "description": "Escolher programação do dia em casa"
           },
-          "us": {
+          "en": {
             "name": "Family choice day",
             "description": "Choose the day’s plan at home"
           }
@@ -3225,7 +3225,7 @@
             "name": "Livraria/papelaria",
             "description": "Crédito para escolher materiais"
           },
-          "us": {
+          "en": {
             "name": "Bookstore/stationery",
             "description": "Credit to pick materials"
           }
@@ -3241,7 +3241,7 @@
             "name": "Assinatura de app/serviço (1 mês)",
             "description": "App educativo/entretenimento"
           },
-          "us": {
+          "en": {
             "name": "App/service subscription (1 month)",
             "description": "Educational/entertainment app"
           }
@@ -3261,7 +3261,7 @@
             "name": "Estudos/Preparatório (60–90 min)",
             "description": "Rotina de estudos focada (ENEM/vestibular)"
           },
-          "us": {
+          "en": {
             "name": "Study/Prep (60–90 min)",
             "description": "Focused study routine (exam prep)"
           }
@@ -3277,7 +3277,7 @@
             "name": "Tarefa doméstica fixa",
             "description": "Ex.: preparar uma refeição simples ou cuidar do lixo"
           },
-          "us": {
+          "en": {
             "name": "Fixed household task",
             "description": "E.g., prepare a simple meal or take out trash"
           }
@@ -3293,7 +3293,7 @@
             "name": "Autogestão do tempo",
             "description": "Planejar o dia e cumprir horários"
           },
-          "us": {
+          "en": {
             "name": "Time self‑management",
             "description": "Plan the day and follow schedules"
           }
@@ -3309,7 +3309,7 @@
             "name": "Atividade física",
             "description": "Treino, esporte ou caminhada"
           },
-          "us": {
+          "en": {
             "name": "Physical activity",
             "description": "Workout, sport, or walk"
           }
@@ -3325,7 +3325,7 @@
             "name": "Leitura de aprofundamento (30 min)",
             "description": "Livro técnico/atualidades"
           },
-          "us": {
+          "en": {
             "name": "Deep reading (30 min)",
             "description": "Technical book/current affairs"
           }
@@ -3341,7 +3341,7 @@
             "name": "Organização de estudos",
             "description": "Revisar metas e materiais da semana"
           },
-          "us": {
+          "en": {
             "name": "Study organization",
             "description": "Review weekly goals and materials"
           }
@@ -3357,7 +3357,7 @@
             "name": "Sono de qualidade",
             "description": "Cumprir horário e higiene do sono"
           },
-          "us": {
+          "en": {
             "name": "Quality sleep",
             "description": "Follow sleep schedule and hygiene"
           }
@@ -3373,7 +3373,7 @@
             "name": "Planejamento financeiro",
             "description": "Anotar gastos e reservar poupança"
           },
-          "us": {
+          "en": {
             "name": "Financial planning",
             "description": "Track expenses and set aside savings"
           }
@@ -3389,7 +3389,7 @@
             "name": "Cuidar da casa",
             "description": "Arrumar um cômodo/área diariamente"
           },
-          "us": {
+          "en": {
             "name": "Home care",
             "description": "Tidy a room/area daily"
           }
@@ -3405,7 +3405,7 @@
             "name": "Apoio consistente à família",
             "description": "Ajudar em demandas domésticas relevantes"
           },
-          "us": {
+          "en": {
             "name": "Consistent family support",
             "description": "Help with relevant home demands"
           }
@@ -3423,7 +3423,7 @@
             "name": "Projeto pessoal concluído",
             "description": "Curso online, certificado, portfólio"
           },
-          "us": {
+          "en": {
             "name": "Personal project completed",
             "description": "Online course, certificate, portfolio"
           }
@@ -3439,7 +3439,7 @@
             "name": "Apoio à família",
             "description": "Ajudar significativamente algum familiar"
           },
-          "us": {
+          "en": {
             "name": "Support to family",
             "description": "Significantly help a family member"
           }
@@ -3455,7 +3455,7 @@
             "name": "Resultado acadêmico destacado",
             "description": "Ótima nota/aprovação em simulado"
           },
-          "us": {
+          "en": {
             "name": "Outstanding academic result",
             "description": "Great grade/mock exam approval"
           }
@@ -3471,7 +3471,7 @@
             "name": "Trabalho/estágio exemplar",
             "description": "Cumprir metas e receber elogio"
           },
-          "us": {
+          "en": {
             "name": "Exemplary work/internship",
             "description": "Meet goals and receive praise"
           }
@@ -3487,7 +3487,7 @@
             "name": "Hábito saudável mantido",
             "description": "Ex.: 7 dias de treino/sono consistente"
           },
-          "us": {
+          "en": {
             "name": "Healthy habit maintained",
             "description": "E.g., 7 days of consistent training/sleep"
           }
@@ -3503,7 +3503,7 @@
             "name": "Gestão de tempo avançada",
             "description": "Planejar semana e cumprir 90%"
           },
-          "us": {
+          "en": {
             "name": "Advanced time management",
             "description": "Plan the week and meet 90% of it"
           }
@@ -3519,7 +3519,7 @@
             "name": "Mentoria/ajuda a alguém",
             "description": "Ajudar um colega a aprender algo"
           },
-          "us": {
+          "en": {
             "name": "Mentor/help someone",
             "description": "Help a peer learn something"
           }
@@ -3535,7 +3535,7 @@
             "name": "Conquista de carteira/ CNH (etapa)",
             "description": "Passar em uma fase do processo"
           },
-          "us": {
+          "en": {
             "name": "Driver’s license milestone",
             "description": "Pass a phase of the process"
           }
@@ -3551,7 +3551,7 @@
             "name": "Contribuição comunitária",
             "description": "Participar de ação voluntária"
           },
-          "us": {
+          "en": {
             "name": "Community contribution",
             "description": "Take part in a volunteer action"
           }
@@ -3567,7 +3567,7 @@
             "name": "Economia planejada",
             "description": "Guardar % da renda/mesada por 1 mês"
           },
-          "us": {
+          "en": {
             "name": "Planned savings",
             "description": "Save % of income/allowance for a month"
           }
@@ -3585,7 +3585,7 @@
             "name": "Quebrar combinados essenciais",
             "description": "Descumprir regras de casa/estudos"
           },
-          "us": {
+          "en": {
             "name": "Break essential agreements",
             "description": "Fail to follow home/study rules"
           }
@@ -3601,7 +3601,7 @@
             "name": "Desrespeito grave",
             "description": "Conduta desrespeitosa reiterada"
           },
-          "us": {
+          "en": {
             "name": "Serious disrespect",
             "description": "Repeated disrespectful behavior"
           }
@@ -3617,7 +3617,7 @@
             "name": "Plágio/cópia em avaliações",
             "description": "Fraude acadêmica"
           },
-          "us": {
+          "en": {
             "name": "Plagiarism/cheating",
             "description": "Academic fraud"
           }
@@ -3633,7 +3633,7 @@
             "name": "Risco à segurança pessoal",
             "description": "Conduta perigosa (ex.: dirigir sem habilitação)"
           },
-          "us": {
+          "en": {
             "name": "Personal safety risk",
             "description": "Dangerous conduct (e.g., driving unlicensed)"
           }
@@ -3649,7 +3649,7 @@
             "name": "Abuso de telas/mídias",
             "description": "Uso excessivo com prejuízo às tarefas"
           },
-          "us": {
+          "en": {
             "name": "Screen/media overuse",
             "description": "Excessive use harming tasks"
           }
@@ -3665,7 +3665,7 @@
             "name": "Quebra de confiança séria",
             "description": "Mentiras ou omissões relevantes"
           },
-          "us": {
+          "en": {
             "name": "Serious breach of trust",
             "description": "Significant lies or omissions"
           }
@@ -3681,7 +3681,7 @@
             "name": "Descumprir prazos importantes",
             "description": "Deixar de entregar trabalho/projeto"
           },
-          "us": {
+          "en": {
             "name": "Miss important deadlines",
             "description": "Fail to deliver work/project"
           }
@@ -3697,7 +3697,7 @@
             "name": "Desrespeito a limites legais",
             "description": "Descumprir regras legais básicas"
           },
-          "us": {
+          "en": {
             "name": "Disrespect legal boundaries",
             "description": "Break basic legal rules"
           }
@@ -3713,7 +3713,7 @@
             "name": "Danos intencionais a patrimônio",
             "description": "Danificar algo de propósito"
           },
-          "us": {
+          "en": {
             "name": "Intentional property damage",
             "description": "Damage something on purpose"
           }
@@ -3729,7 +3729,7 @@
             "name": "Má convivência familiar",
             "description": "Agressividade verbal recorrente"
           },
-          "us": {
+          "en": {
             "name": "Poor family coexistence",
             "description": "Recurrent verbal aggressiveness"
           }
@@ -3747,7 +3747,7 @@
             "name": "Tempo extra de tela (90 min)",
             "description": "Mais tempo de lazer em telas"
           },
-          "us": {
+          "en": {
             "name": "Extra screen time (90 min)",
             "description": "More leisure screen time"
           }
@@ -3763,7 +3763,7 @@
             "name": "Passeio especial",
             "description": "Atividade de lazer escolhida"
           },
-          "us": {
+          "en": {
             "name": "Special outing",
             "description": "Chosen leisure activity"
           }
@@ -3779,7 +3779,7 @@
             "name": "Aquisição planejada",
             "description": "Item de maior valor previamente combinado"
           },
-          "us": {
+          "en": {
             "name": "Planned purchase",
             "description": "Higher‑value item agreed beforehand"
           }
@@ -3795,7 +3795,7 @@
             "name": "Curso/associação (1 mês)",
             "description": "Acesso a curso/plataforma de interesse"
           },
-          "us": {
+          "en": {
             "name": "Course/membership (1 month)",
             "description": "Access to a course/platform of interest"
           }
@@ -3811,7 +3811,7 @@
             "name": "Evento com amigos",
             "description": "Cinema/show/atividade combinada"
           },
-          "us": {
+          "en": {
             "name": "Event with friends",
             "description": "Movie/show/agreed activity"
           }
@@ -3827,7 +3827,7 @@
             "name": "Upgrade tecnológico",
             "description": "Melhorar acessório/equipamento"
           },
-          "us": {
+          "en": {
             "name": "Tech upgrade",
             "description": "Improve an accessory/equipment"
           }
@@ -3843,7 +3843,7 @@
             "name": "Dia livre planejado",
             "description": "Dia com agenda definida pelo jovem"
           },
-          "us": {
+          "en": {
             "name": "Planned free day",
             "description": "Day with a schedule defined by the teen"
           }
@@ -3859,7 +3859,7 @@
             "name": "Viagem curta/local",
             "description": "Passeio bate‑volta planejado"
           },
-          "us": {
+          "en": {
             "name": "Short/local trip",
             "description": "Planned day trip"
           }
@@ -3875,7 +3875,7 @@
             "name": "Crédito para livraria/papelaria",
             "description": "Valor para livros/materiais"
           },
-          "us": {
+          "en": {
             "name": "Bookstore/stationery credit",
             "description": "Amount for books/materials"
           }
@@ -3891,7 +3891,7 @@
             "name": "Experiência gastronômica",
             "description": "Ir a um lugar escolhido para comer"
           },
-          "us": {
+          "en": {
             "name": "Gastronomic experience",
             "description": "Go eat at a chosen place"
           }
