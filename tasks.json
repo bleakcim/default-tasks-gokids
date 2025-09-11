@@ -15,7 +15,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "08:30:0",
+        "tasktime": "08:30:00",
         "idioma": {
           "pt": {
             "name": "Escovar os dentes (com ajuda)",
@@ -41,7 +41,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "11:30:0",
+        "tasktime": "11:30:00",
         "idioma": {
           "pt": {
             "name": "Lavar as mãos",
@@ -67,7 +67,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "12:00:0",
+        "tasktime": "12:00:00",
         "idioma": {
           "pt": {
             "name": "Comer sentado",
@@ -93,7 +93,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "19:30:0",
+        "tasktime": "19:30:00",
         "idioma": {
           "pt": {
             "name": "Rotina do sono",
@@ -117,7 +117,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "16:00:0",
+        "tasktime": "16:00:00",
         "idioma": {
           "pt": {
             "name": "Guardar brinquedos (com ajuda)",
@@ -143,7 +143,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "10:30:0",
+        "tasktime": "10:30:00",
         "idioma": {
           "pt": {
             "name": "Beber água",
@@ -169,7 +169,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "19:00:0",
+        "tasktime": "19:00:00",
         "idioma": {
           "pt": {
             "name": "Vestir pijama (com ajuda)",
@@ -195,7 +195,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "16:30:0",
+        "tasktime": "16:30:00",
         "idioma": {
           "pt": {
             "name": "Ajudar a guardar livros/peças",
@@ -221,7 +221,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "14:00:0",
+        "tasktime": "14:00:00",
         "idioma": {
           "pt": {
             "name": "Dizer “por favor” e “obrigado”",
@@ -247,7 +247,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "07:45:0",
+        "tasktime": "07:45:00",
         "idioma": {
           "pt": {
             "name": "Cooperar na cadeirinha do carro",
@@ -763,7 +763,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "07:30:0",
+        "tasktime": "07:30:00",
         "idioma": {
           "pt": {
             "name": "Escovar os dentes",
@@ -789,7 +789,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "07:00:0",
+        "tasktime": "07:00:00",
         "idioma": {
           "pt": {
             "name": "Arrumar a cama",
@@ -813,7 +813,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "17:00:0",
+        "tasktime": "17:00:00",
         "idioma": {
           "pt": {
             "name": "Guardar os brinquedos",
@@ -837,7 +837,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "17:30:0",
+        "tasktime": "17:30:00",
         "idioma": {
           "pt": {
             "name": "Atividade escolar",
@@ -863,7 +863,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "19:00:0",
+        "tasktime": "19:00:00",
         "idioma": {
           "pt": {
             "name": "Tomar banho",
@@ -889,7 +889,7 @@
           "sat",
           "sun"
         ],
-        "tasktime": "18:00:0",
+        "tasktime": "18:00:00",
         "idioma": {
           "pt": {
             "name": "Colocar roupas no cesto",
@@ -913,7 +913,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "18:30:0",
+        "tasktime": "18:30:00",
         "idioma": {
           "pt": {
             "name": "Ser gentil com irmãos/colegas",
@@ -937,7 +937,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "19:30:0",
+        "tasktime": "19:30:00",
         "idioma": {
           "pt": {
             "name": "Ler um livro (15 min)",
@@ -961,7 +961,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "12:30:0",
+        "tasktime": "12:30:00",
         "idioma": {
           "pt": {
             "name": "Colocar o prato na pia",
@@ -985,7 +985,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "20:00:0",
+        "tasktime": "20:00:00",
         "idioma": {
           "pt": {
             "name": "Conferir a mochila",
@@ -1499,7 +1499,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "16:00:0",
+        "tasktime": "16:00:00",
         "idioma": {
           "pt": {
             "name": "Dever de casa completo",
@@ -1523,7 +1523,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "16:30:0",
+        "tasktime": "16:30:00",
         "idioma": {
           "pt": {
             "name": "Ler 20 minutos",
@@ -1547,7 +1547,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "20:00:0",
+        "tasktime": "20:00:00",
         "idioma": {
           "pt": {
             "name": "Arrumar mochila",
@@ -1571,7 +1571,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "18:30:0",
+        "tasktime": "18:30:00",
         "idioma": {
           "pt": {
             "name": "Ajudar na mesa",
@@ -1595,7 +1595,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "19:30:0",
+        "tasktime": "19:30:00",
         "idioma": {
           "pt": {
             "name": "Tomar banho e higiene",
@@ -1619,7 +1619,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "17:30:0",
+        "tasktime": "17:30:00",
         "idioma": {
           "pt": {
             "name": "Organizar o quarto",
@@ -1643,7 +1643,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "20:30:0",
+        "tasktime": "20:30:00",
         "idioma": {
           "pt": {
             "name": "Preparar roupa do dia seguinte",
@@ -1667,7 +1667,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "17:00:0",
+        "tasktime": "17:00:00",
         "idioma": {
           "pt": {
             "name": "Praticar um hobby (20 min)",
@@ -1691,7 +1691,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "18:00:0",
+        "tasktime": "18:00:00",
         "idioma": {
           "pt": {
             "name": "Atividade física curta",
@@ -1715,7 +1715,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "19:00:0",
+        "tasktime": "19:00:00",
         "idioma": {
           "pt": {
             "name": "Revisar agenda",
@@ -2229,7 +2229,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "16:00:0",
+        "tasktime": "16:00:00",
         "idioma": {
           "pt": {
             "name": "Estudo planejado (30–40 min)",
@@ -2253,7 +2253,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "16:45:0",
+        "tasktime": "16:45:00",
         "idioma": {
           "pt": {
             "name": "Ler 30 minutos",
@@ -2277,7 +2277,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "17:30:0",
+        "tasktime": "17:30:00",
         "idioma": {
           "pt": {
             "name": "Tarefa doméstica",
@@ -2301,7 +2301,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "18:00:0",
+        "tasktime": "18:00:00",
         "idioma": {
           "pt": {
             "name": "Organizar material escolar",
@@ -2325,7 +2325,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "19:00:0",
+        "tasktime": "19:00:00",
         "idioma": {
           "pt": {
             "name": "Higiene e banho sem lembrete",
@@ -2349,7 +2349,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "20:00:0",
+        "tasktime": "20:00:00",
         "idioma": {
           "pt": {
             "name": "Preparar lanche/garrafinha",
@@ -2373,7 +2373,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "19:30:0",
+        "tasktime": "19:30:00",
         "idioma": {
           "pt": {
             "name": "Revisar objetivos do dia",
@@ -2397,7 +2397,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "18:30:0",
+        "tasktime": "18:30:00",
         "idioma": {
           "pt": {
             "name": "Praticar atividade física (20–30 min)",
@@ -2959,7 +2959,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "15:00:0",
+        "tasktime": "15:00:00",
         "idioma": {
           "pt": {
             "name": "Bloco de estudos (45–60 min)",
@@ -2983,7 +2983,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "09:30:0",
+        "tasktime": "09:30:00",
         "idioma": {
           "pt": {
             "name": "Responsabilidade no quarto",
@@ -3007,7 +3007,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "17:30:0",
+        "tasktime": "17:30:00",
         "idioma": {
           "pt": {
             "name": "Atividade física leve",
@@ -3031,7 +3031,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "18:30:0",
+        "tasktime": "18:30:00",
         "idioma": {
           "pt": {
             "name": "Ajudar em tarefa da casa",
@@ -3055,7 +3055,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "08:30:0",
+        "tasktime": "08:30:00",
         "idioma": {
           "pt": {
             "name": "Planejamento semanal",
@@ -3079,7 +3079,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "20:00:0",
+        "tasktime": "20:00:00",
         "idioma": {
           "pt": {
             "name": "Tempo sem telas (1h)",
@@ -3103,7 +3103,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "16:30:0",
+        "tasktime": "16:30:00",
         "idioma": {
           "pt": {
             "name": "Prática de habilidade",
@@ -3127,7 +3127,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "10:30:0",
+        "tasktime": "10:30:00",
         "idioma": {
           "pt": {
             "name": "Organização financeira",
@@ -3151,7 +3151,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "19:00:0",
+        "tasktime": "19:00:00",
         "idioma": {
           "pt": {
             "name": "Autocuidado e higiene",
@@ -3175,7 +3175,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "17:00:0",
+        "tasktime": "17:00:00",
         "idioma": {
           "pt": {
             "name": "Apoio à família",
@@ -3689,7 +3689,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "15:00:0",
+        "tasktime": "15:00:00",
         "idioma": {
           "pt": {
             "name": "Estudos/Preparatório (60–90 min)",
@@ -3713,7 +3713,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "18:30:0",
+        "tasktime": "18:30:00",
         "idioma": {
           "pt": {
             "name": "Tarefa doméstica fixa",
@@ -3737,7 +3737,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "08:00:0",
+        "tasktime": "08:00:00",
         "idioma": {
           "pt": {
             "name": "Autogestão do tempo",
@@ -3761,7 +3761,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "17:00:0",
+        "tasktime": "17:00:00",
         "idioma": {
           "pt": {
             "name": "Atividade física",
@@ -3785,7 +3785,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "20:00:0",
+        "tasktime": "20:00:00",
         "idioma": {
           "pt": {
             "name": "Leitura de aprofundamento (30 min)",
@@ -3809,7 +3809,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "10:00:0",
+        "tasktime": "10:00:00",
         "idioma": {
           "pt": {
             "name": "Organização de estudos",
@@ -3833,7 +3833,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "22:00:0",
+        "tasktime": "22:00:00",
         "idioma": {
           "pt": {
             "name": "Sono de qualidade",
@@ -3857,7 +3857,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "11:30:0",
+        "tasktime": "11:30:00",
         "idioma": {
           "pt": {
             "name": "Planejamento financeiro",
@@ -3881,7 +3881,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "16:30:0",
+        "tasktime": "16:30:00",
         "idioma": {
           "pt": {
             "name": "Cuidar da casa",
@@ -3905,7 +3905,7 @@
           "thu",
           "fri"
         ],
-        "tasktime": "18:00:0",
+        "tasktime": "18:00:00",
         "idioma": {
           "pt": {
             "name": "Apoio consistente à família",
