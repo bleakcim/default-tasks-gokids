@@ -6,6 +6,16 @@
         "description": "Escovar os dentes pela manhã e à noite com auxílio de um adulto",
         "points": 4,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T08:30:00Z",
         "idioma": {
           "pt": {
             "name": "Escovar os dentes (com ajuda)",
@@ -22,6 +32,16 @@
         "description": "Lavar as mãos antes das refeições e após usar o banheiro",
         "points": 4,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T11:30:00Z",
         "idioma": {
           "pt": {
             "name": "Lavar as mãos",
@@ -38,6 +58,16 @@
         "description": "Fazer as refeições sentado e com calma",
         "points": 4,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T12:00:00Z",
         "idioma": {
           "pt": {
             "name": "Comer sentado",
@@ -54,6 +84,16 @@
         "description": "Seguir a rotina: pijama, escovar dentes, história e cama",
         "points": 3,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T19:30:00Z",
         "idioma": {
           "pt": {
             "name": "Rotina do sono",
@@ -70,6 +110,14 @@
         "description": "Juntar e guardar brinquedos após brincar",
         "points": 3,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T16:00:00Z",
         "idioma": {
           "pt": {
             "name": "Guardar brinquedos (com ajuda)",
@@ -86,6 +134,16 @@
         "description": "Beber água em alguns momentos do dia (com lembretes)",
         "points": 3,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T10:30:00Z",
         "idioma": {
           "pt": {
             "name": "Beber água",
@@ -102,6 +160,16 @@
         "description": "Colocar o pijama quando for dormir",
         "points": 3,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T19:00:00Z",
         "idioma": {
           "pt": {
             "name": "Vestir pijama (com ajuda)",
@@ -118,6 +186,16 @@
         "description": "Ajudar a colocar livros e peças no lugar",
         "points": 3,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T16:30:00Z",
         "idioma": {
           "pt": {
             "name": "Ajudar a guardar livros/peças",
@@ -134,6 +212,16 @@
         "description": "Usar palavras mágicas ao pedir e agradecer",
         "points": 3,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T14:00:00Z",
         "idioma": {
           "pt": {
             "name": "Dizer “por favor” e “obrigado”",
@@ -150,6 +238,16 @@
         "description": "Ficar na cadeirinha com cinto sem tentar sair",
         "points": 5,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T07:45:00Z",
         "idioma": {
           "pt": {
             "name": "Cooperar na cadeirinha do carro",
@@ -656,6 +754,16 @@
         "description": "Manhã e noite, com supervisão",
         "points": 5,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T07:30:00Z",
         "idioma": {
           "pt": {
             "name": "Escovar os dentes",
@@ -672,6 +780,16 @@
         "description": "Organizar o lençol e o travesseiro ao acordar",
         "points": 5,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T07:00:00Z",
         "idioma": {
           "pt": {
             "name": "Arrumar a cama",
@@ -688,6 +806,14 @@
         "description": "Organizar o quarto após brincar",
         "points": 4,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T17:00:00Z",
         "idioma": {
           "pt": {
             "name": "Guardar os brinquedos",
@@ -704,6 +830,14 @@
         "description": "Fazer lição de casa ou atividade de desenho/leitura",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T17:30:00Z",
         "idioma": {
           "pt": {
             "name": "Atividade escolar",
@@ -720,6 +854,16 @@
         "description": "Tomar banho e vestir pijama",
         "points": 5,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T19:00:00Z",
         "idioma": {
           "pt": {
             "name": "Tomar banho",
@@ -736,6 +880,16 @@
         "description": "Levar roupas sujas ao cesto",
         "points": 3,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "2025-09-11T18:00:00Z",
         "idioma": {
           "pt": {
             "name": "Colocar roupas no cesto",
@@ -752,6 +906,14 @@
         "description": "Falar com respeito e gentileza",
         "points": 5,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T18:30:00Z",
         "idioma": {
           "pt": {
             "name": "Ser gentil com irmãos/colegas",
@@ -768,6 +930,14 @@
         "description": "Momento de leitura com ou sem ajuda",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T19:30:00Z",
         "idioma": {
           "pt": {
             "name": "Ler um livro (15 min)",
@@ -784,6 +954,14 @@
         "description": "Levar o prato e talheres para a pia após comer",
         "points": 4,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T12:30:00Z",
         "idioma": {
           "pt": {
             "name": "Colocar o prato na pia",
@@ -800,6 +978,14 @@
         "description": "Ver se cadernos e estojo estão prontos para o dia seguinte",
         "points": 5,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T20:00:00Z",
         "idioma": {
           "pt": {
             "name": "Conferir a mochila",
@@ -1306,6 +1492,14 @@
         "description": "Concluir tarefas escolares do dia",
         "points": 10,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T16:00:00Z",
         "idioma": {
           "pt": {
             "name": "Dever de casa completo",
@@ -1322,6 +1516,14 @@
         "description": "Leitura diária de livro ou HQ",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T16:30:00Z",
         "idioma": {
           "pt": {
             "name": "Ler 20 minutos",
@@ -1338,6 +1540,14 @@
         "description": "Checar cadernos, livros e estojo",
         "points": 6,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T20:00:00Z",
         "idioma": {
           "pt": {
             "name": "Arrumar mochila",
@@ -1354,6 +1564,14 @@
         "description": "Apoiar em pôr/retirar a mesa",
         "points": 6,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T18:30:00Z",
         "idioma": {
           "pt": {
             "name": "Ajudar na mesa",
@@ -1370,6 +1588,14 @@
         "description": "Banho, escovar dentes e pentear cabelo",
         "points": 6,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T19:30:00Z",
         "idioma": {
           "pt": {
             "name": "Tomar banho e higiene",
@@ -1386,6 +1612,14 @@
         "description": "Manter o quarto organizado",
         "points": 6,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T17:30:00Z",
         "idioma": {
           "pt": {
             "name": "Organizar o quarto",
@@ -1402,6 +1636,14 @@
         "description": "Separar uniforme/roupas para amanhã",
         "points": 7,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T20:30:00Z",
         "idioma": {
           "pt": {
             "name": "Preparar roupa do dia seguinte",
@@ -1418,6 +1660,14 @@
         "description": "Instrumento, desenho, xadrez, etc.",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T17:00:00Z",
         "idioma": {
           "pt": {
             "name": "Praticar um hobby (20 min)",
@@ -1434,6 +1684,14 @@
         "description": "Pular corda, correr, brincar ao ar livre",
         "points": 7,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T18:00:00Z",
         "idioma": {
           "pt": {
             "name": "Atividade física curta",
@@ -1450,6 +1708,14 @@
         "description": "Ver agenda/recados da escola",
         "points": 6,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T19:00:00Z",
         "idioma": {
           "pt": {
             "name": "Revisar agenda",
@@ -1956,6 +2222,14 @@
         "description": "Planejar e cumprir bloco de estudos",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T16:00:00Z",
         "idioma": {
           "pt": {
             "name": "Estudo planejado (30–40 min)",
@@ -1972,6 +2246,14 @@
         "description": "Leitura diária de livro/estudo",
         "points": 10,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T16:45:00Z",
         "idioma": {
           "pt": {
             "name": "Ler 30 minutos",
@@ -1988,6 +2270,14 @@
         "description": "Ex.: tirar o lixo ou varrer área pequena",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T17:30:00Z",
         "idioma": {
           "pt": {
             "name": "Tarefa doméstica",
@@ -2004,6 +2294,14 @@
         "description": "Mochila, estojo, cadernos atualizados",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T18:00:00Z",
         "idioma": {
           "pt": {
             "name": "Organizar material escolar",
@@ -2020,6 +2318,14 @@
         "description": "Cumprir rotina de higiene de forma autônoma",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T19:00:00Z",
         "idioma": {
           "pt": {
             "name": "Higiene e banho sem lembrete",
@@ -2036,6 +2342,14 @@
         "description": "Separar lanche e água para o dia seguinte",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T20:00:00Z",
         "idioma": {
           "pt": {
             "name": "Preparar lanche/garrafinha",
@@ -2052,6 +2366,14 @@
         "description": "Listar 3 metas e checar ao final",
         "points": 9,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T19:30:00Z",
         "idioma": {
           "pt": {
             "name": "Revisar objetivos do dia",
@@ -2068,6 +2390,14 @@
         "description": "Caminhada, esporte ou treino leve",
         "points": 9,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T18:30:00Z",
         "idioma": {
           "pt": {
             "name": "Praticar atividade física (20–30 min)",
@@ -2084,6 +2414,14 @@
         "description": "Ajudar alguém em casa de forma útil",
         "points": 8,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T15:00:00.000Z",
         "idioma": {
           "pt": {
             "name": "Apoiar um familiar",
@@ -2100,6 +2438,14 @@
         "description": "Brincar/ler/criar sem dispositivos",
         "points": 10,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T15:00:00.000Z",
         "idioma": {
           "pt": {
             "name": "Tempo sem telas (30–60 min)",
@@ -2606,6 +2952,14 @@
         "description": "Estudar com foco e sem distrações",
         "points": 14,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T15:00:00Z",
         "idioma": {
           "pt": {
             "name": "Bloco de estudos (45–60 min)",
@@ -2622,6 +2976,14 @@
         "description": "Manter quarto organizado diariamente",
         "points": 10,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T09:30:00Z",
         "idioma": {
           "pt": {
             "name": "Responsabilidade no quarto",
@@ -2638,6 +3000,14 @@
         "description": "Caminhada, esporte ou exercício",
         "points": 10,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T17:30:00Z",
         "idioma": {
           "pt": {
             "name": "Atividade física leve",
@@ -2654,6 +3024,14 @@
         "description": "Ex.: louça do jantar, varrer sala",
         "points": 10,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T18:30:00Z",
         "idioma": {
           "pt": {
             "name": "Ajudar em tarefa da casa",
@@ -2670,6 +3048,14 @@
         "description": "Definir metas e prazos da semana",
         "points": 11,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T08:30:00Z",
         "idioma": {
           "pt": {
             "name": "Planejamento semanal",
@@ -2686,6 +3072,14 @@
         "description": "Atividade offline criativa/leitora",
         "points": 11,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T20:00:00Z",
         "idioma": {
           "pt": {
             "name": "Tempo sem telas (1h)",
@@ -2702,6 +3096,14 @@
         "description": "Estudar música, idioma, código etc.",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T16:30:00Z",
         "idioma": {
           "pt": {
             "name": "Prática de habilidade",
@@ -2718,6 +3120,14 @@
         "description": "Registrar gastos/mesada e poupar parte",
         "points": 11,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T10:30:00Z",
         "idioma": {
           "pt": {
             "name": "Organização financeira",
@@ -2734,6 +3144,14 @@
         "description": "Rotina de banho, pele, cabelo",
         "points": 10,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T19:00:00Z",
         "idioma": {
           "pt": {
             "name": "Autocuidado e higiene",
@@ -2750,6 +3168,14 @@
         "description": "Ajudar alguém em casa de forma útil",
         "points": 10,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T17:00:00Z",
         "idioma": {
           "pt": {
             "name": "Apoio à família",
@@ -3256,6 +3682,14 @@
         "description": "Rotina de estudos focada (ENEM/vestibular)",
         "points": 16,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T15:00:00Z",
         "idioma": {
           "pt": {
             "name": "Estudos/Preparatório (60–90 min)",
@@ -3272,6 +3706,14 @@
         "description": "Ex.: preparar uma refeição simples ou cuidar do lixo",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T18:30:00Z",
         "idioma": {
           "pt": {
             "name": "Tarefa doméstica fixa",
@@ -3288,6 +3730,14 @@
         "description": "Planejar o dia e cumprir horários",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T08:00:00Z",
         "idioma": {
           "pt": {
             "name": "Autogestão do tempo",
@@ -3304,6 +3754,14 @@
         "description": "Treino, esporte ou caminhada",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T17:00:00Z",
         "idioma": {
           "pt": {
             "name": "Atividade física",
@@ -3320,6 +3778,14 @@
         "description": "Livro técnico/atualidades",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T20:00:00Z",
         "idioma": {
           "pt": {
             "name": "Leitura de aprofundamento (30 min)",
@@ -3336,6 +3802,14 @@
         "description": "Revisar metas e materiais da semana",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T10:00:00Z",
         "idioma": {
           "pt": {
             "name": "Organização de estudos",
@@ -3352,6 +3826,14 @@
         "description": "Cumprir horário e higiene do sono",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T22:00:00Z",
         "idioma": {
           "pt": {
             "name": "Sono de qualidade",
@@ -3368,6 +3850,14 @@
         "description": "Anotar gastos e reservar poupança",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T11:30:00Z",
         "idioma": {
           "pt": {
             "name": "Planejamento financeiro",
@@ -3384,6 +3874,14 @@
         "description": "Arrumar um cômodo/área diariamente",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T16:30:00Z",
         "idioma": {
           "pt": {
             "name": "Cuidar da casa",
@@ -3400,6 +3898,14 @@
         "description": "Ajudar em demandas domésticas relevantes",
         "points": 12,
         "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "2025-09-11T18:00:00Z",
         "idioma": {
           "pt": {
             "name": "Apoio consistente à família",
