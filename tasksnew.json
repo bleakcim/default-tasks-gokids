@@ -1,0 +1,4408 @@
+{
+  "1-3": {
+    "tasks": [
+      {
+        "name": "Escovar os dentes (com ajuda)",
+        "description": "Escovar os dentes pela manhã e à noite com auxílio de um adulto",
+        "points": 4,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "08:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Escovar os dentes (com ajuda)",
+            "description": "Escovar os dentes pela manhã e à noite com auxílio de um adulto"
+          },
+          "en": {
+            "name": "Brush teeth (with help)",
+            "description": "Brush teeth in the morning and at night with an adult’s help"
+          }
+        }
+      },
+      {
+        "name": "Lavar as mãos",
+        "description": "Lavar as mãos antes das refeições e após usar o banheiro",
+        "points": 4,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "11:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Lavar as mãos",
+            "description": "Lavar as mãos antes das refeições e após usar o banheiro"
+          },
+          "en": {
+            "name": "Wash hands",
+            "description": "Wash hands before meals and after using the bathroom"
+          }
+        }
+      },
+      {
+        "name": "Comer sentado",
+        "description": "Fazer as refeições sentado e com calma",
+        "points": 4,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "12:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Comer sentado",
+            "description": "Fazer as refeições sentado e com calma"
+          },
+          "en": {
+            "name": "Eat while seated",
+            "description": "Eat meals seated and calmly"
+          }
+        }
+      },
+      {
+        "name": "Rotina do sono",
+        "description": "Seguir a rotina: pijama, escovar dentes, história e cama",
+        "points": 3,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "19:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Rotina do sono",
+            "description": "Seguir a rotina: pijama, escovar dentes, história e cama"
+          },
+          "en": {
+            "name": "Bedtime routine",
+            "description": "Follow the routine: pajamas, brush teeth, story, and bed"
+          }
+        }
+      },
+      {
+        "name": "Guardar brinquedos (com ajuda)",
+        "description": "Juntar e guardar brinquedos após brincar",
+        "points": 3,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "16:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Guardar brinquedos (com ajuda)",
+            "description": "Juntar e guardar brinquedos após brincar"
+          },
+          "en": {
+            "name": "Put toys away (with help)",
+            "description": "Gather and put away toys after playing"
+          }
+        }
+      },
+      {
+        "name": "Beber água",
+        "description": "Beber água em alguns momentos do dia (com lembretes)",
+        "points": 3,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "10:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Beber água",
+            "description": "Beber água em alguns momentos do dia (com lembretes)"
+          },
+          "en": {
+            "name": "Drink water",
+            "description": "Drink water a few times during the day (with reminders)"
+          }
+        }
+      },
+      {
+        "name": "Vestir pijama (com ajuda)",
+        "description": "Colocar o pijama quando for dormir",
+        "points": 3,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "19:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Vestir pijama (com ajuda)",
+            "description": "Colocar o pijama quando for dormir"
+          },
+          "en": {
+            "name": "Put on pajamas (with help)",
+            "description": "Put on pajamas at bedtime"
+          }
+        }
+      },
+      {
+        "name": "Ajudar a guardar livros/peças",
+        "description": "Ajudar a colocar livros e peças no lugar",
+        "points": 3,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "16:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Ajudar a guardar livros/peças",
+            "description": "Ajudar a colocar livros e peças no lugar"
+          },
+          "en": {
+            "name": "Help shelve books/blocks",
+            "description": "Help place books and blocks back in their places"
+          }
+        }
+      },
+      {
+        "name": "Dizer “por favor” e “obrigado”",
+        "description": "Usar palavras mágicas ao pedir e agradecer",
+        "points": 3,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "14:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Dizer “por favor” e “obrigado”",
+            "description": "Usar palavras mágicas ao pedir e agradecer"
+          },
+          "en": {
+            "name": "Say “please” and “thank you”",
+            "description": "Use polite words when asking and thanking"
+          }
+        }
+      },
+      {
+        "name": "Cooperar na cadeirinha do carro",
+        "description": "Ficar na cadeirinha com cinto sem tentar sair",
+        "points": 5,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "07:45:00",
+        "idioma": {
+          "pt": {
+            "name": "Cooperar na cadeirinha do carro",
+            "description": "Ficar na cadeirinha com cinto sem tentar sair"
+          },
+          "en": {
+            "name": "Cooperate in car seat",
+            "description": "Stay buckled in the car seat without trying to get out"
+          }
+        }
+      }
+    ],
+    "bonuses": [
+      {
+        "name": "Compartilhar brinquedos",
+        "description": "Dividir brinquedos com outras crianças",
+        "points": 8,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Compartilhar brinquedos",
+            "description": "Dividir brinquedos com outras crianças"
+          },
+          "en": {
+            "name": "Share toys",
+            "description": "Share toys with other children"
+          }
+        }
+      },
+      {
+        "name": "Tentar algo novo",
+        "description": "Experimentar um alimento ou atividade nova",
+        "points": 8,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Tentar algo novo",
+            "description": "Experimentar um alimento ou atividade nova"
+          },
+          "en": {
+            "name": "Try something new",
+            "description": "Try a new food or activity"
+          }
+        }
+      },
+      {
+        "name": "Usar o penico/vaso",
+        "description": "Fazer tentativas na fase de desfralde",
+        "points": 10,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Usar o penico/vaso",
+            "description": "Fazer tentativas na fase de desfralde"
+          },
+          "en": {
+            "name": "Use potty/toilet",
+            "description": "Make attempts during potty training"
+          }
+        }
+      },
+      {
+        "name": "Ajudar sem ser pedido",
+        "description": "Ter iniciativa de ajudar um adulto ou amigo",
+        "points": 10,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Ajudar sem ser pedido",
+            "description": "Ter iniciativa de ajudar um adulto ou amigo"
+          },
+          "en": {
+            "name": "Help without being asked",
+            "description": "Take initiative to help an adult or friend"
+          }
+        }
+      },
+      {
+        "name": "Esperar a vez",
+        "description": "Aguardar a vez na brincadeira",
+        "points": 8,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Esperar a vez",
+            "description": "Aguardar a vez na brincadeira"
+          },
+          "en": {
+            "name": "Wait your turn",
+            "description": "Wait for your turn while playing"
+          }
+        }
+      },
+      {
+        "name": "Brincar com calma",
+        "description": "Brincar sem fazer bagunça grande",
+        "points": 8,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Brincar com calma",
+            "description": "Brincar sem fazer bagunça grande"
+          },
+          "en": {
+            "name": "Play calmly",
+            "description": "Play without making a big mess"
+          }
+        }
+      },
+      {
+        "name": "Aceitar o “não” sem birra",
+        "description": "Respirar e se acalmar quando ouvir “não”",
+        "points": 10,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Aceitar o “não” sem birra",
+            "description": "Respirar e se acalmar quando ouvir “não”"
+          },
+          "en": {
+            "name": "Accept “no” without a tantrum",
+            "description": "Breathe and calm down when hearing “no”"
+          }
+        }
+      },
+      {
+        "name": "Guardar os sapatos no lugar",
+        "description": "Deixar os sapatos próximos à porta/prateleira",
+        "points": 8,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Guardar os sapatos no lugar",
+            "description": "Deixar os sapatos próximos à porta/prateleira"
+          },
+          "en": {
+            "name": "Put shoes away",
+            "description": "Place shoes by the door/shelf"
+          }
+        }
+      },
+      {
+        "name": "Comer sozinho (treino)",
+        "description": "Tentar comer usando talheres com apoio",
+        "points": 8,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Comer sozinho (treino)",
+            "description": "Tentar comer usando talheres com apoio"
+          },
+          "en": {
+            "name": "Eat by yourself (practice)",
+            "description": "Try eating with utensils with support"
+          }
+        }
+      },
+      {
+        "name": "Sair do parquinho sem chorar",
+        "description": "Aceitar a hora de ir embora do parquinho",
+        "points": 10,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Sair do parquinho sem chorar",
+            "description": "Aceitar a hora de ir embora do parquinho"
+          },
+          "en": {
+            "name": "Leave the playground calmly",
+            "description": "Accept it’s time to leave the playground"
+          }
+        }
+      }
+    ],
+    "punishments": [
+      {
+        "name": "Jogar objetos",
+        "description": "Arremessar brinquedos ou objetos",
+        "points": 5,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Jogar objetos",
+            "description": "Arremessar brinquedos ou objetos"
+          },
+          "en": {
+            "name": "Throw objects",
+            "description": "Throw toys or objects"
+          }
+        }
+      },
+      {
+        "name": "Gritar excessivamente",
+        "description": "Gritos prolongados sem necessidade",
+        "points": 5,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Gritar excessivamente",
+            "description": "Gritos prolongados sem necessidade"
+          },
+          "en": {
+            "name": "Excessive screaming",
+            "description": "Prolonged yelling without need"
+          }
+        }
+      },
+      {
+        "name": "Desobedecer regras simples",
+        "description": "Ignorar instruções básicas (guardar brinquedos, etc.)",
+        "points": 6,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desobedecer regras simples",
+            "description": "Ignorar instruções básicas (guardar brinquedos, etc.)"
+          },
+          "en": {
+            "name": "Disobey simple rules",
+            "description": "Ignore basic instructions (put away toys, etc.)"
+          }
+        }
+      },
+      {
+        "name": "Empurrar ou bater",
+        "description": "Machucar outra pessoa de propósito",
+        "points": 7,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Empurrar ou bater",
+            "description": "Machucar outra pessoa de propósito"
+          },
+          "en": {
+            "name": "Push or hit",
+            "description": "Hurt someone on purpose"
+          }
+        }
+      },
+      {
+        "name": "Chutar ao trocar fralda/roupa",
+        "description": "Dificultar a troca chutando",
+        "points": 6,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Chutar ao trocar fralda/roupa",
+            "description": "Dificultar a troca chutando"
+          },
+          "en": {
+            "name": "Kick during changing",
+            "description": "Make changing difficult by kicking"
+          }
+        }
+      },
+      {
+        "name": "Birra prolongada",
+        "description": "Fazer birra por muito tempo após aviso",
+        "points": 7,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Birra prolongada",
+            "description": "Fazer birra por muito tempo após aviso"
+          },
+          "en": {
+            "name": "Long tantrum",
+            "description": "Have a prolonged tantrum after a warning"
+          }
+        }
+      },
+      {
+        "name": "Derramar comida de propósito",
+        "description": "Jogar comida no chão intencionalmente",
+        "points": 6,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Derramar comida de propósito",
+            "description": "Jogar comida no chão intencionalmente"
+          },
+          "en": {
+            "name": "Spill food on purpose",
+            "description": "Throw food on the floor intentionally"
+          }
+        }
+      },
+      {
+        "name": "Morder",
+        "description": "Morder alguém durante a brincadeira",
+        "points": 8,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Morder",
+            "description": "Morder alguém durante a brincadeira"
+          },
+          "en": {
+            "name": "Bite",
+            "description": "Bite someone during play"
+          }
+        }
+      },
+      {
+        "name": "Desenhar na parede",
+        "description": "Rabiscar paredes ou móveis de propósito",
+        "points": 7,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desenhar na parede",
+            "description": "Rabiscar paredes ou móveis de propósito"
+          },
+          "en": {
+            "name": "Draw on the wall",
+            "description": "Draw on walls or furniture on purpose"
+          }
+        }
+      },
+      {
+        "name": "Correr para a rua (perigo)",
+        "description": "Tentar fugir/correr para a rua",
+        "points": 9,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Correr para a rua (perigo)",
+            "description": "Tentar fugir/correr para a rua"
+          },
+          "en": {
+            "name": "Run into the street (danger)",
+            "description": "Try to run into the street"
+          }
+        }
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Adesivo de recompensa",
+        "description": "Ganhar um adesivo para o quadro",
+        "points": 10,
+        "type": "other",
+        "idioma": {
+          "pt": {
+            "name": "Adesivo de recompensa",
+            "description": "Ganhar um adesivo para o quadro"
+          },
+          "en": {
+            "name": "Reward sticker",
+            "description": "Earn a sticker for the chart"
+          }
+        }
+      },
+      {
+        "name": "História extra",
+        "description": "Ouvir uma história a mais antes de dormir",
+        "points": 15,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "História extra",
+            "description": "Ouvir uma história a mais antes de dormir"
+          },
+          "en": {
+            "name": "Extra story",
+            "description": "Hear one more bedtime story"
+          }
+        }
+      },
+      {
+        "name": "Música favorita",
+        "description": "Escolher músicas para dançar/cantar",
+        "points": 12,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Música favorita",
+            "description": "Escolher músicas para dançar/cantar"
+          },
+          "en": {
+            "name": "Favorite music",
+            "description": "Choose songs to dance/sing"
+          }
+        }
+      },
+      {
+        "name": "Parquinho rápido",
+        "description": "Passeio curto ao parquinho",
+        "points": 25,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Parquinho rápido",
+            "description": "Passeio curto ao parquinho"
+          },
+          "en": {
+            "name": "Quick playground time",
+            "description": "Short trip to the playground"
+          }
+        }
+      },
+      {
+        "name": "Escolher pijama",
+        "description": "Decidir qual pijama usar",
+        "points": 8,
+        "type": "privilege",
+        "idioma": {
+          "pt": {
+            "name": "Escolher pijama",
+            "description": "Decidir qual pijama usar"
+          },
+          "en": {
+            "name": "Choose pajamas",
+            "description": "Decide which pajamas to wear"
+          }
+        }
+      },
+      {
+        "name": "Brincadeira com os pais",
+        "description": "Tempo especial de brincadeira com os pais",
+        "points": 20,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Brincadeira com os pais",
+            "description": "Tempo especial de brincadeira com os pais"
+          },
+          "en": {
+            "name": "Playtime with parents",
+            "description": "Special playtime with parents"
+          }
+        }
+      },
+      {
+        "name": "Escolher desenho curto",
+        "description": "Assistir um desenho curto",
+        "points": 15,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "Escolher desenho curto",
+            "description": "Assistir um desenho curto"
+          },
+          "en": {
+            "name": "Choose a short cartoon",
+            "description": "Watch a short cartoon"
+          }
+        }
+      },
+      {
+        "name": "Docinho pequeno",
+        "description": "Escolher um doce pequeno",
+        "points": 12,
+        "type": "food",
+        "idioma": {
+          "pt": {
+            "name": "Docinho pequeno",
+            "description": "Escolher um doce pequeno"
+          },
+          "en": {
+            "name": "Small treat",
+            "description": "Choose a small sweet"
+          }
+        }
+      },
+      {
+        "name": "Bolhas de sabão",
+        "description": "Brincar de fazer bolhas de sabão",
+        "points": 15,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Bolhas de sabão",
+            "description": "Brincar de fazer bolhas de sabão"
+          },
+          "en": {
+            "name": "Soap bubbles",
+            "description": "Play with soap bubbles"
+          }
+        }
+      },
+      {
+        "name": "Passeio de carrinho/bicicleta",
+        "description": "Dar uma volta curta de carrinho ou bicicleta",
+        "points": 25,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Passeio de carrinho/bicicleta",
+            "description": "Dar uma volta curta de carrinho ou bicicleta"
+          },
+          "en": {
+            "name": "Stroller/bike ride",
+            "description": "Take a short stroller or bike ride"
+          }
+        }
+      }
+    ]
+  },
+  "4-6": {
+    "tasks": [
+      {
+        "name": "Escovar os dentes",
+        "description": "Manhã e noite, com supervisão",
+        "points": 5,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "07:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Escovar os dentes",
+            "description": "Manhã e noite, com supervisão"
+          },
+          "en": {
+            "name": "Brush teeth",
+            "description": "Morning and night, with supervision"
+          }
+        }
+      },
+      {
+        "name": "Arrumar a cama",
+        "description": "Organizar o lençol e o travesseiro ao acordar",
+        "points": 5,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "07:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Arrumar a cama",
+            "description": "Organizar o lençol e o travesseiro ao acordar"
+          },
+          "en": {
+            "name": "Make the bed",
+            "description": "Tidy the sheet and pillow after waking up"
+          }
+        }
+      },
+      {
+        "name": "Guardar os brinquedos",
+        "description": "Organizar o quarto após brincar",
+        "points": 4,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "17:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Guardar os brinquedos",
+            "description": "Organizar o quarto após brincar"
+          },
+          "en": {
+            "name": "Put toys away",
+            "description": "Organize the room after playing"
+          }
+        }
+      },
+      {
+        "name": "Atividade escolar",
+        "description": "Fazer lição de casa ou atividade de desenho/leitura",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "17:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Atividade escolar",
+            "description": "Fazer lição de casa ou atividade de desenho/leitura"
+          },
+          "en": {
+            "name": "School activity",
+            "description": "Do homework or a drawing/reading activity"
+          }
+        }
+      },
+      {
+        "name": "Tomar banho",
+        "description": "Tomar banho e vestir pijama",
+        "points": 5,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "19:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Tomar banho",
+            "description": "Tomar banho e vestir pijama"
+          },
+          "en": {
+            "name": "Take a bath",
+            "description": "Take a bath and put on pajamas"
+          }
+        }
+      },
+      {
+        "name": "Colocar roupas no cesto",
+        "description": "Levar roupas sujas ao cesto",
+        "points": 3,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri",
+          "sat",
+          "sun"
+        ],
+        "tasktime": "18:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Colocar roupas no cesto",
+            "description": "Levar roupas sujas ao cesto"
+          },
+          "en": {
+            "name": "Put clothes in the hamper",
+            "description": "Take dirty clothes to the hamper"
+          }
+        }
+      },
+      {
+        "name": "Ser gentil com irmãos/colegas",
+        "description": "Falar com respeito e gentileza",
+        "points": 5,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "18:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Ser gentil com irmãos/colegas",
+            "description": "Falar com respeito e gentileza"
+          },
+          "en": {
+            "name": "Be kind to siblings/classmates",
+            "description": "Speak with respect and kindness"
+          }
+        }
+      },
+      {
+        "name": "Ler um livro (15 min)",
+        "description": "Momento de leitura com ou sem ajuda",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "19:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Ler um livro (15 min)",
+            "description": "Momento de leitura com ou sem ajuda"
+          },
+          "en": {
+            "name": "Read a book (15 min)",
+            "description": "Reading time with or without help"
+          }
+        }
+      },
+      {
+        "name": "Colocar o prato na pia",
+        "description": "Levar o prato e talheres para a pia após comer",
+        "points": 4,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "12:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Colocar o prato na pia",
+            "description": "Levar o prato e talheres para a pia após comer"
+          },
+          "en": {
+            "name": "Take plate to the sink",
+            "description": "Bring plate and utensils to the sink after eating"
+          }
+        }
+      },
+      {
+        "name": "Conferir a mochila",
+        "description": "Ver se cadernos e estojo estão prontos para o dia seguinte",
+        "points": 5,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "20:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Conferir a mochila",
+            "description": "Ver se cadernos e estojo estão prontos para o dia seguinte"
+          },
+          "en": {
+            "name": "Check the backpack",
+            "description": "Make sure notebooks and pencil case are ready for the next day"
+          }
+        }
+      }
+    ],
+    "bonuses": [
+      {
+        "name": "Ajudar sem ser pedido",
+        "description": "Iniciativa em casa (guardar algo, ajudar na mesa)",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Ajudar sem ser pedido",
+            "description": "Iniciativa em casa (guardar algo, ajudar na mesa)"
+          },
+          "en": {
+            "name": "Help without being asked",
+            "description": "Take initiative at home (put things away, help at the table)"
+          }
+        }
+      },
+      {
+        "name": "Ato de gentileza",
+        "description": "Fazer algo gentil para alguém",
+        "points": 10,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Ato de gentileza",
+            "description": "Fazer algo gentil para alguém"
+          },
+          "en": {
+            "name": "Act of kindness",
+            "description": "Do something kind for someone"
+          }
+        }
+      },
+      {
+        "name": "Organizar algo sozinho",
+        "description": "Organizar prateleira ou livros",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Organizar algo sozinho",
+            "description": "Organizar prateleira ou livros"
+          },
+          "en": {
+            "name": "Organize something independently",
+            "description": "Organize a shelf or books"
+          }
+        }
+      },
+      {
+        "name": "Cumprir promessa",
+        "description": "Manter uma combinação feita",
+        "points": 10,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Cumprir promessa",
+            "description": "Manter uma combinação feita"
+          },
+          "en": {
+            "name": "Keep a promise",
+            "description": "Keep an agreement that was made"
+          }
+        }
+      },
+      {
+        "name": "Boa participação na aula",
+        "description": "Ouvir o professor e participar com respeito",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Boa participação na aula",
+            "description": "Ouvir o professor e participar com respeito"
+          },
+          "en": {
+            "name": "Good participation at school",
+            "description": "Listen to the teacher and participate respectfully"
+          }
+        }
+      },
+      {
+        "name": "Cuidar de um brinquedo",
+        "description": "Guardar e cuidar bem do brinquedo preferido",
+        "points": 10,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Cuidar de um brinquedo",
+            "description": "Guardar e cuidar bem do brinquedo preferido"
+          },
+          "en": {
+            "name": "Take care of a toy",
+            "description": "Store and take good care of a favorite toy"
+          }
+        }
+      },
+      {
+        "name": "Experimento/arte caprichado",
+        "description": "Fazer um trabalho manual com atenção",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Experimento/arte caprichado",
+            "description": "Fazer um trabalho manual com atenção"
+          },
+          "en": {
+            "name": "Neat craft/experiment",
+            "description": "Do a hands‑on project with care"
+          }
+        }
+      },
+      {
+        "name": "Ser um bom esportista",
+        "description": "Jogar com fair play e respeitar regras",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Ser um bom esportista",
+            "description": "Jogar com fair play e respeitar regras"
+          },
+          "en": {
+            "name": "Good sportsmanship",
+            "description": "Play with fair play and respect rules"
+          }
+        }
+      },
+      {
+        "name": "Ler além do combinado",
+        "description": "Ler um pouco a mais que o planejado",
+        "points": 10,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Ler além do combinado",
+            "description": "Ler um pouco a mais que o planejado"
+          },
+          "en": {
+            "name": "Read beyond the plan",
+            "description": "Read a bit more than planned"
+          }
+        }
+      },
+      {
+        "name": "Cuidar do animal de estimação",
+        "description": "Trocar água ou ajudar a alimentar com supervisão",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Cuidar do animal de estimação",
+            "description": "Trocar água ou ajudar a alimentar com supervisão"
+          },
+          "en": {
+            "name": "Care for a pet",
+            "description": "Change water or help feed with supervision"
+          }
+        }
+      }
+    ],
+    "punishments": [
+      {
+        "name": "Desobedecer",
+        "description": "Desobedecer regras combinadas",
+        "points": 8,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desobedecer",
+            "description": "Desobedecer regras combinadas"
+          },
+          "en": {
+            "name": "Disobey",
+            "description": "Disobey agreed rules"
+          }
+        }
+      },
+      {
+        "name": "Brigar com irmãos/colegas",
+        "description": "Entrar em brigas e empurrões",
+        "points": 6,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Brigar com irmãos/colegas",
+            "description": "Entrar em brigas e empurrões"
+          },
+          "en": {
+            "name": "Fight with siblings/classmates",
+            "description": "Get into fights and shoving"
+          }
+        }
+      },
+      {
+        "name": "Mentir",
+        "description": "Não falar a verdade",
+        "points": 12,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Mentir",
+            "description": "Não falar a verdade"
+          },
+          "en": {
+            "name": "Lie",
+            "description": "Do not tell the truth"
+          }
+        }
+      },
+      {
+        "name": "Não guardar brinquedos",
+        "description": "Deixar bagunça propositalmente",
+        "points": 5,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Não guardar brinquedos",
+            "description": "Deixar bagunça propositalmente"
+          },
+          "en": {
+            "name": "Do not put toys away",
+            "description": "Leave a mess on purpose"
+          }
+        }
+      },
+      {
+        "name": "Respeito no trânsito escolar",
+        "description": "Correr no corredor/empurrar na saída",
+        "points": 8,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Respeito no trânsito escolar",
+            "description": "Correr no corredor/empurrar na saída"
+          },
+          "en": {
+            "name": "School transit disrespect",
+            "description": "Run in the hallway/push at dismissal"
+          }
+        }
+      },
+      {
+        "name": "Responder de forma rude",
+        "description": "Responder com grosseria para adultos",
+        "points": 9,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Responder de forma rude",
+            "description": "Responder com grosseria para adultos"
+          },
+          "en": {
+            "name": "Talk back rudely",
+            "description": "Respond rudely to adults"
+          }
+        }
+      },
+      {
+        "name": "Quebrar regras de tela",
+        "description": "Usar telas fora do combinado",
+        "points": 8,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Quebrar regras de tela",
+            "description": "Usar telas fora do combinado"
+          },
+          "en": {
+            "name": "Break screen rules",
+            "description": "Use screens outside agreed times"
+          }
+        }
+      },
+      {
+        "name": "Faltar com cuidado com materiais",
+        "description": "Estragar material escolar de propósito",
+        "points": 10,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Faltar com cuidado com materiais",
+            "description": "Estragar material escolar de propósito"
+          },
+          "en": {
+            "name": "Mistreat materials",
+            "description": "Damage school materials on purpose"
+          }
+        }
+      },
+      {
+        "name": "Provocar colegas",
+        "description": "Provocar ou zombar de colegas",
+        "points": 9,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Provocar colegas",
+            "description": "Provocar ou zombar de colegas"
+          },
+          "en": {
+            "name": "Tease classmates",
+            "description": "Tease or mock classmates"
+          }
+        }
+      },
+      {
+        "name": "Não ouvir após aviso",
+        "description": "Ignorar instruções mesmo após lembrete",
+        "points": 7,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Não ouvir após aviso",
+            "description": "Ignorar instruções mesmo após lembrete"
+          },
+          "en": {
+            "name": "Ignore after warning",
+            "description": "Ignore instructions even after a reminder"
+          }
+        }
+      }
+    ],
+    "rewards": [
+      {
+        "name": "30 min extras de TV",
+        "description": "Assistir TV por mais 30 minutos",
+        "points": 25,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "30 min extras de TV",
+            "description": "Assistir TV por mais 30 minutos"
+          },
+          "en": {
+            "name": "30 extra minutes of TV",
+            "description": "Watch TV for 30 more minutes"
+          }
+        }
+      },
+      {
+        "name": "Escolher jantar",
+        "description": "Decidir o que a família vai jantar",
+        "points": 15,
+        "type": "food",
+        "idioma": {
+          "pt": {
+            "name": "Escolher jantar",
+            "description": "Decidir o que a família vai jantar"
+          },
+          "en": {
+            "name": "Choose dinner",
+            "description": "Decide what the family will have for dinner"
+          }
+        }
+      },
+      {
+        "name": "Doce especial",
+        "description": "Escolher um doce ou sobremesa",
+        "points": 20,
+        "type": "food",
+        "idioma": {
+          "pt": {
+            "name": "Doce especial",
+            "description": "Escolher um doce ou sobremesa"
+          },
+          "en": {
+            "name": "Special treat",
+            "description": "Choose a dessert or sweet"
+          }
+        }
+      },
+      {
+        "name": "Atividade com papai/mamãe",
+        "description": "Tempo especial com os pais",
+        "points": 35,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Atividade com papai/mamãe",
+            "description": "Tempo especial com os pais"
+          },
+          "en": {
+            "name": "Activity with mom/dad",
+            "description": "Special time with parents"
+          }
+        }
+      },
+      {
+        "name": "Brincadeira de tabuleiro",
+        "description": "Jogar um jogo de tabuleiro em família",
+        "points": 30,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Brincadeira de tabuleiro",
+            "description": "Jogar um jogo de tabuleiro em família"
+          },
+          "en": {
+            "name": "Board game time",
+            "description": "Play a board game with family"
+          }
+        }
+      },
+      {
+        "name": "Passeio de bicicleta",
+        "description": "Dar uma volta de bicicleta",
+        "points": 30,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Passeio de bicicleta",
+            "description": "Dar uma volta de bicicleta"
+          },
+          "en": {
+            "name": "Bike ride",
+            "description": "Go for a bike ride"
+          }
+        }
+      },
+      {
+        "name": "Amigo para brincar",
+        "description": "Convidar um amigo para brincar por 1 hora",
+        "points": 40,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Amigo para brincar",
+            "description": "Convidar um amigo para brincar por 1 hora"
+          },
+          "en": {
+            "name": "Playdate",
+            "description": "Invite a friend to play for 1 hour"
+          }
+        }
+      },
+      {
+        "name": "Escolher história do dia",
+        "description": "Escolher o livro da leitura noturna",
+        "points": 15,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "Escolher história do dia",
+            "description": "Escolher o livro da leitura noturna"
+          },
+          "en": {
+            "name": "Choose the story",
+            "description": "Pick the bedtime book"
+          }
+        }
+      },
+      {
+        "name": "Figurinhas/adesivos",
+        "description": "Ganhar algumas figurinhas para coleção",
+        "points": 20,
+        "type": "toy",
+        "idioma": {
+          "pt": {
+            "name": "Figurinhas/adesivos",
+            "description": "Ganhar algumas figurinhas para coleção"
+          },
+          "en": {
+            "name": "Stickers",
+            "description": "Get some stickers for a collection"
+          }
+        }
+      },
+      {
+        "name": "Parquinho estendido",
+        "description": "Ficar mais tempo no parquinho",
+        "points": 35,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Parquinho estendido",
+            "description": "Ficar mais tempo no parquinho"
+          },
+          "en": {
+            "name": "Extended playground time",
+            "description": "Stay longer at the playground"
+          }
+        }
+      }
+    ]
+  },
+  "7-9": {
+    "tasks": [
+      {
+        "name": "Dever de casa completo",
+        "description": "Concluir tarefas escolares do dia",
+        "points": 10,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "16:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Dever de casa completo",
+            "description": "Concluir tarefas escolares do dia"
+          },
+          "en": {
+            "name": "Homework completed",
+            "description": "Finish the day’s school assignments"
+          }
+        }
+      },
+      {
+        "name": "Ler 20 minutos",
+        "description": "Leitura diária de livro ou HQ",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "16:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Ler 20 minutos",
+            "description": "Leitura diária de livro ou HQ"
+          },
+          "en": {
+            "name": "Read 20 minutes",
+            "description": "Daily reading of a book or comic"
+          }
+        }
+      },
+      {
+        "name": "Arrumar mochila",
+        "description": "Checar cadernos, livros e estojo",
+        "points": 6,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "20:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Arrumar mochila",
+            "description": "Checar cadernos, livros e estojo"
+          },
+          "en": {
+            "name": "Pack backpack",
+            "description": "Check notebooks, books, and pencil case"
+          }
+        }
+      },
+      {
+        "name": "Ajudar na mesa",
+        "description": "Apoiar em pôr/retirar a mesa",
+        "points": 6,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "18:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Ajudar na mesa",
+            "description": "Apoiar em pôr/retirar a mesa"
+          },
+          "en": {
+            "name": "Help with the table",
+            "description": "Help set/clear the table"
+          }
+        }
+      },
+      {
+        "name": "Tomar banho e higiene",
+        "description": "Banho, escovar dentes e pentear cabelo",
+        "points": 6,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "19:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Tomar banho e higiene",
+            "description": "Banho, escovar dentes e pentear cabelo"
+          },
+          "en": {
+            "name": "Bath and hygiene",
+            "description": "Bath, brush teeth, and comb hair"
+          }
+        }
+      },
+      {
+        "name": "Organizar o quarto",
+        "description": "Manter o quarto organizado",
+        "points": 6,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "17:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Organizar o quarto",
+            "description": "Manter o quarto organizado"
+          },
+          "en": {
+            "name": "Tidy your room",
+            "description": "Keep the bedroom organized"
+          }
+        }
+      },
+      {
+        "name": "Preparar roupa do dia seguinte",
+        "description": "Separar uniforme/roupas para amanhã",
+        "points": 7,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "20:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Preparar roupa do dia seguinte",
+            "description": "Separar uniforme/roupas para amanhã"
+          },
+          "en": {
+            "name": "Prepare clothes for tomorrow",
+            "description": "Set out uniform/clothes for the next day"
+          }
+        }
+      },
+      {
+        "name": "Praticar um hobby (20 min)",
+        "description": "Instrumento, desenho, xadrez, etc.",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "17:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Praticar um hobby (20 min)",
+            "description": "Instrumento, desenho, xadrez, etc."
+          },
+          "en": {
+            "name": "Practice a hobby (20 min)",
+            "description": "Instrument, drawing, chess, etc."
+          }
+        }
+      },
+      {
+        "name": "Atividade física curta",
+        "description": "Pular corda, correr, brincar ao ar livre",
+        "points": 7,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "18:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Atividade física curta",
+            "description": "Pular corda, correr, brincar ao ar livre"
+          },
+          "en": {
+            "name": "Short physical activity",
+            "description": "Jump rope, run, play outside"
+          }
+        }
+      },
+      {
+        "name": "Revisar agenda",
+        "description": "Ver agenda/recados da escola",
+        "points": 6,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "19:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Revisar agenda",
+            "description": "Ver agenda/recados da escola"
+          },
+          "en": {
+            "name": "Review planner",
+            "description": "Check school planner/notes"
+          }
+        }
+      }
+    ],
+    "bonuses": [
+      {
+        "name": "Trabalho escolar excelente",
+        "description": "Nota ou feedback muito bom",
+        "points": 15,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Trabalho escolar excelente",
+            "description": "Nota ou feedback muito bom"
+          },
+          "en": {
+            "name": "Excellent schoolwork",
+            "description": "Grade or feedback is very good"
+          }
+        }
+      },
+      {
+        "name": "Resolver conflito com diálogo",
+        "description": "Resolver briga conversando e pedindo desculpas",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Resolver conflito com diálogo",
+            "description": "Resolver briga conversando e pedindo desculpas"
+          },
+          "en": {
+            "name": "Resolve conflict with dialogue",
+            "description": "Solve a fight by talking and apologizing"
+          }
+        }
+      },
+      {
+        "name": "Aprender algo novo",
+        "description": "Demonstrar curiosidade e aprendizado extra",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Aprender algo novo",
+            "description": "Demonstrar curiosidade e aprendizado extra"
+          },
+          "en": {
+            "name": "Learn something new",
+            "description": "Show curiosity and extra learning"
+          }
+        }
+      },
+      {
+        "name": "Responsabilidade com materiais",
+        "description": "Cuidar dos materiais escolares sem perder",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Responsabilidade com materiais",
+            "description": "Cuidar dos materiais escolares sem perder"
+          },
+          "en": {
+            "name": "Responsibility with materials",
+            "description": "Care for school supplies without losing them"
+          }
+        }
+      },
+      {
+        "name": "Ajuda em casa além do combinado",
+        "description": "Fazer uma tarefa extra espontaneamente",
+        "points": 14,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Ajuda em casa além do combinado",
+            "description": "Fazer uma tarefa extra espontaneamente"
+          },
+          "en": {
+            "name": "Help at home beyond the plan",
+            "description": "Do an extra chore spontaneously"
+          }
+        }
+      },
+      {
+        "name": "Gentileza com colegas",
+        "description": "Apoiar um colega que precisa de ajuda",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Gentileza com colegas",
+            "description": "Apoiar um colega que precisa de ajuda"
+          },
+          "en": {
+            "name": "Kindness to classmates",
+            "description": "Support a classmate who needs help"
+          }
+        }
+      },
+      {
+        "name": "Boa organização semanal",
+        "description": "Manter mochila/material organizado a semana toda",
+        "points": 14,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Boa organização semanal",
+            "description": "Manter mochila/material organizado a semana toda"
+          },
+          "en": {
+            "name": "Good weekly organization",
+            "description": "Keep backpack/material organized all week"
+          }
+        }
+      },
+      {
+        "name": "Leitura além da meta",
+        "description": "Ler mais páginas do que o combinado",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Leitura além da meta",
+            "description": "Ler mais páginas do que o combinado"
+          },
+          "en": {
+            "name": "Reading beyond the goal",
+            "description": "Read more pages than planned"
+          }
+        }
+      },
+      {
+        "name": "Criatividade em projeto",
+        "description": "Entregar um trabalho com criatividade",
+        "points": 15,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Criatividade em projeto",
+            "description": "Entregar um trabalho com criatividade"
+          },
+          "en": {
+            "name": "Creativity in a project",
+            "description": "Deliver a creative piece of work"
+          }
+        }
+      },
+      {
+        "name": "Cuidar do quarto do irmão",
+        "description": "Ajudar irmão/irmã a arrumar o quarto",
+        "points": 12,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Cuidar do quarto do irmão",
+            "description": "Ajudar irmão/irmã a arrumar o quarto"
+          },
+          "en": {
+            "name": "Help sibling’s room",
+            "description": "Help brother/sister tidy their room"
+          }
+        }
+      }
+    ],
+    "punishments": [
+      {
+        "name": "Não fazer dever de casa",
+        "description": "Faltou ou se recusou a fazer",
+        "points": 10,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Não fazer dever de casa",
+            "description": "Faltou ou se recusou a fazer"
+          },
+          "en": {
+            "name": "Did not do homework",
+            "description": "Skipped or refused to do homework"
+          }
+        }
+      },
+      {
+        "name": "Falta de respeito",
+        "description": "Falar de forma rude ou desrespeitosa",
+        "points": 10,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Falta de respeito",
+            "description": "Falar de forma rude ou desrespeitosa"
+          },
+          "en": {
+            "name": "Disrespect",
+            "description": "Speak rudely or disrespectfully"
+          }
+        }
+      },
+      {
+        "name": "Quebrar algo de propósito",
+        "description": "Danificar objetos intencionalmente",
+        "points": 15,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Quebrar algo de propósito",
+            "description": "Danificar objetos intencionalmente"
+          },
+          "en": {
+            "name": "Break something on purpose",
+            "description": "Intentionally damage objects"
+          }
+        }
+      },
+      {
+        "name": "Ignorar horários combinados",
+        "description": "Não cumprir horários de estudo/sono",
+        "points": 9,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Ignorar horários combinados",
+            "description": "Não cumprir horários de estudo/sono"
+          },
+          "en": {
+            "name": "Ignore set times",
+            "description": "Do not follow study/bedtime schedules"
+          }
+        }
+      },
+      {
+        "name": "Uso de tela sem permissão",
+        "description": "Usar dispositivos sem autorização",
+        "points": 9,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Uso de tela sem permissão",
+            "description": "Usar dispositivos sem autorização"
+          },
+          "en": {
+            "name": "Screen time without permission",
+            "description": "Use devices without permission"
+          }
+        }
+      },
+      {
+        "name": "Provocar/zoar colegas",
+        "description": "Fazer bullying verbal ou zombar",
+        "points": 12,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Provocar/zoar colegas",
+            "description": "Fazer bullying verbal ou zombar"
+          },
+          "en": {
+            "name": "Tease/bully classmates",
+            "description": "Verbal bullying or mocking"
+          }
+        }
+      },
+      {
+        "name": "Mentir conscientemente",
+        "description": "Mentira para evitar responsabilidade",
+        "points": 12,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Mentir conscientemente",
+            "description": "Mentira para evitar responsabilidade"
+          },
+          "en": {
+            "name": "Conscious lying",
+            "description": "Lie to avoid responsibility"
+          }
+        }
+      },
+      {
+        "name": "Não cuidar do material escolar",
+        "description": "Perder/largar materiais repetidamente",
+        "points": 9,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Não cuidar do material escolar",
+            "description": "Perder/largar materiais repetidamente"
+          },
+          "en": {
+            "name": "Neglect school supplies",
+            "description": "Lose/leave materials repeatedly"
+          }
+        }
+      },
+      {
+        "name": "Desobedecer regras de segurança",
+        "description": "Descumprir regras em locais públicos",
+        "points": 11,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desobedecer regras de segurança",
+            "description": "Descumprir regras em locais públicos"
+          },
+          "en": {
+            "name": "Disobey safety rules",
+            "description": "Break rules in public places"
+          }
+        }
+      },
+      {
+        "name": "Desorganização intencional",
+        "description": "Deixar bagunça grande de propósito",
+        "points": 9,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desorganização intencional",
+            "description": "Deixar bagunça grande de propósito"
+          },
+          "en": {
+            "name": "Intentional mess",
+            "description": "Leave a big mess on purpose"
+          }
+        }
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Amigo em casa",
+        "description": "Convidar um amigo para brincar",
+        "points": 40,
+        "type": "privilege",
+        "idioma": {
+          "pt": {
+            "name": "Amigo em casa",
+            "description": "Convidar um amigo para brincar"
+          },
+          "en": {
+            "name": "Friend over",
+            "description": "Invite a friend to play"
+          }
+        }
+      },
+      {
+        "name": "Dormir mais tarde (30–60 min)",
+        "description": "Ficar acordado um pouco a mais",
+        "points": 30,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "Dormir mais tarde (30–60 min)",
+            "description": "Ficar acordado um pouco a mais"
+          },
+          "en": {
+            "name": "Stay up later (30–60 min)",
+            "description": "Stay up a bit longer"
+          }
+        }
+      },
+      {
+        "name": "Brinquedo pequeno",
+        "description": "Até R$ 20",
+        "points": 50,
+        "type": "toy",
+        "idioma": {
+          "pt": {
+            "name": "Brinquedo pequeno",
+            "description": "Até R$ 20"
+          },
+          "en": {
+            "name": "Small toy",
+            "description": "Up to the set small budget"
+          }
+        }
+      },
+      {
+        "name": "Cinema em família",
+        "description": "Ir ao cinema com a família",
+        "points": 80,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Cinema em família",
+            "description": "Ir ao cinema com a família"
+          },
+          "en": {
+            "name": "Family movie",
+            "description": "Go to the movies with family"
+          }
+        }
+      },
+      {
+        "name": "Passeio de fim de semana",
+        "description": "Escolher um passeio simples",
+        "points": 60,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Passeio de fim de semana",
+            "description": "Escolher um passeio simples"
+          },
+          "en": {
+            "name": "Weekend outing",
+            "description": "Choose a simple outing"
+          }
+        }
+      },
+      {
+        "name": "Jogo de tabuleiro novo (pequeno)",
+        "description": "Um jogo simples para jogar em família",
+        "points": 70,
+        "type": "toy",
+        "idioma": {
+          "pt": {
+            "name": "Jogo de tabuleiro novo (pequeno)",
+            "description": "Um jogo simples para jogar em família"
+          },
+          "en": {
+            "name": "New small board game",
+            "description": "A simple game to play with family"
+          }
+        }
+      },
+      {
+        "name": "Atividade esportiva escolhida",
+        "description": "Escolher o esporte do dia",
+        "points": 45,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Atividade esportiva escolhida",
+            "description": "Escolher o esporte do dia"
+          },
+          "en": {
+            "name": "Chosen sports activity",
+            "description": "Pick the day’s sport"
+          }
+        }
+      },
+      {
+        "name": "Tempo extra de jogo (30 min)",
+        "description": "Mais 30 minutos de videogame",
+        "points": 35,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "Tempo extra de jogo (30 min)",
+            "description": "Mais 30 minutos de videogame"
+          },
+          "en": {
+            "name": "Extra game time (30 min)",
+            "description": "30 more minutes of video games"
+          }
+        }
+      },
+      {
+        "name": "Café da manhã especial",
+        "description": "Escolher um café da manhã divertido",
+        "points": 30,
+        "type": "food",
+        "idioma": {
+          "pt": {
+            "name": "Café da manhã especial",
+            "description": "Escolher um café da manhã divertido"
+          },
+          "en": {
+            "name": "Special breakfast",
+            "description": "Choose a fun breakfast"
+          }
+        }
+      },
+      {
+        "name": "Dia do chef infantil",
+        "description": "Ajudar a preparar uma receita simples",
+        "points": 40,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Dia do chef infantil",
+            "description": "Ajudar a preparar uma receita simples"
+          },
+          "en": {
+            "name": "Kid chef day",
+            "description": "Help prepare a simple recipe"
+          }
+        }
+      }
+    ]
+  },
+  "10-12": {
+    "tasks": [
+      {
+        "name": "Estudo planejado (30–40 min)",
+        "description": "Planejar e cumprir bloco de estudos",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "16:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Estudo planejado (30–40 min)",
+            "description": "Planejar e cumprir bloco de estudos"
+          },
+          "en": {
+            "name": "Planned study (30–40 min)",
+            "description": "Plan and complete a study block"
+          }
+        }
+      },
+      {
+        "name": "Ler 30 minutos",
+        "description": "Leitura diária de livro/estudo",
+        "points": 10,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "16:45:00",
+        "idioma": {
+          "pt": {
+            "name": "Ler 30 minutos",
+            "description": "Leitura diária de livro/estudo"
+          },
+          "en": {
+            "name": "Read 30 minutes",
+            "description": "Daily reading of a book/study"
+          }
+        }
+      },
+      {
+        "name": "Tarefa doméstica",
+        "description": "Ex.: tirar o lixo ou varrer área pequena",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "17:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Tarefa doméstica",
+            "description": "Ex.: tirar o lixo ou varrer área pequena"
+          },
+          "en": {
+            "name": "Household chore",
+            "description": "E.g., take out trash or sweep a small area"
+          }
+        }
+      },
+      {
+        "name": "Organizar material escolar",
+        "description": "Mochila, estojo, cadernos atualizados",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "18:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Organizar material escolar",
+            "description": "Mochila, estojo, cadernos atualizados"
+          },
+          "en": {
+            "name": "Organize school materials",
+            "description": "Backpack, pencil case, notebooks up to date"
+          }
+        }
+      },
+      {
+        "name": "Higiene e banho sem lembrete",
+        "description": "Cumprir rotina de higiene de forma autônoma",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "19:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Higiene e banho sem lembrete",
+            "description": "Cumprir rotina de higiene de forma autônoma"
+          },
+          "en": {
+            "name": "Hygiene and bath without reminders",
+            "description": "Complete hygiene routine independently"
+          }
+        }
+      },
+      {
+        "name": "Preparar lanche/garrafinha",
+        "description": "Separar lanche e água para o dia seguinte",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "20:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Preparar lanche/garrafinha",
+            "description": "Separar lanche e água para o dia seguinte"
+          },
+          "en": {
+            "name": "Prepare snack/water bottle",
+            "description": "Set snack and water for the next day"
+          }
+        }
+      },
+      {
+        "name": "Revisar objetivos do dia",
+        "description": "Listar 3 metas e checar ao final",
+        "points": 9,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "19:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Revisar objetivos do dia",
+            "description": "Listar 3 metas e checar ao final"
+          },
+          "en": {
+            "name": "Review daily goals",
+            "description": "List 3 goals and check at the end"
+          }
+        }
+      },
+      {
+        "name": "Praticar atividade física (20–30 min)",
+        "description": "Caminhada, esporte ou treino leve",
+        "points": 9,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "18:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Praticar atividade física (20–30 min)",
+            "description": "Caminhada, esporte ou treino leve"
+          },
+          "en": {
+            "name": "Physical activity (20–30 min)",
+            "description": "Walk, sport, or light workout"
+          }
+        }
+      },
+      {
+        "name": "Apoiar um familiar",
+        "description": "Ajudar alguém em casa de forma útil",
+        "points": 8,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "15:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Apoiar um familiar",
+            "description": "Ajudar alguém em casa de forma útil"
+          },
+          "en": {
+            "name": "Support a family member",
+            "description": "Help someone at home in a useful way"
+          }
+        }
+      },
+      {
+        "name": "Tempo sem telas (30–60 min)",
+        "description": "Brincar/ler/criar sem dispositivos",
+        "points": 10,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "15:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Tempo sem telas (30–60 min)",
+            "description": "Brincar/ler/criar sem dispositivos"
+          },
+          "en": {
+            "name": "Screen‑free time (30–60 min)",
+            "description": "Play/read/create without devices"
+          }
+        }
+      }
+    ],
+    "bonuses": [
+      {
+        "name": "Projeto escolar de destaque",
+        "description": "Entrega caprichada com ótima avaliação",
+        "points": 18,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Projeto escolar de destaque",
+            "description": "Entrega caprichada com ótima avaliação"
+          },
+          "en": {
+            "name": "Outstanding school project",
+            "description": "Well‑crafted work with great evaluation"
+          }
+        }
+      },
+      {
+        "name": "Apoiar irmão mais novo",
+        "description": "Ajudar com paciência e cuidado",
+        "points": 15,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Apoiar irmão mais novo",
+            "description": "Ajudar com paciência e cuidado"
+          },
+          "en": {
+            "name": "Support younger sibling",
+            "description": "Help with patience and care"
+          }
+        }
+      },
+      {
+        "name": "Auto‑organização exemplar",
+        "description": "Manter rotina semanal bem organizada",
+        "points": 16,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Auto‑organização exemplar",
+            "description": "Manter rotina semanal bem organizada"
+          },
+          "en": {
+            "name": "Exemplary self‑organization",
+            "description": "Keep a well‑organized weekly routine"
+          }
+        }
+      },
+      {
+        "name": "Autocontrole em conflito",
+        "description": "Resolver desentendimentos sem gritar",
+        "points": 15,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Autocontrole em conflito",
+            "description": "Resolver desentendimentos sem gritar"
+          },
+          "en": {
+            "name": "Self‑control in conflict",
+            "description": "Resolve disagreements without yelling"
+          }
+        }
+      },
+      {
+        "name": "Leitura adicional",
+        "description": "Ler além da meta definida",
+        "points": 14,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Leitura adicional",
+            "description": "Ler além da meta definida"
+          },
+          "en": {
+            "name": "Extra reading",
+            "description": "Read beyond the set goal"
+          }
+        }
+      },
+      {
+        "name": "Ajuda voluntária em casa",
+        "description": "Fazer tarefa extra sem ser pedido",
+        "points": 16,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Ajuda voluntária em casa",
+            "description": "Fazer tarefa extra sem ser pedido"
+          },
+          "en": {
+            "name": "Voluntary help at home",
+            "description": "Do an extra chore without being asked"
+          }
+        }
+      },
+      {
+        "name": "Gestão do tempo eficaz",
+        "description": "Terminar tarefas antes do prazo",
+        "points": 16,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Gestão do tempo eficaz",
+            "description": "Terminar tarefas antes do prazo"
+          },
+          "en": {
+            "name": "Effective time management",
+            "description": "Finish tasks ahead of time"
+          }
+        }
+      },
+      {
+        "name": "Criatividade aplicada",
+        "description": "Criar algo (texto, desenho, protótipo)",
+        "points": 15,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Criatividade aplicada",
+            "description": "Criar algo (texto, desenho, protótipo)"
+          },
+          "en": {
+            "name": "Applied creativity",
+            "description": "Create something (text, drawing, prototype)"
+          }
+        }
+      },
+      {
+        "name": "Atividade física extra",
+        "description": "Praticar exercício além do previsto",
+        "points": 14,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Atividade física extra",
+            "description": "Praticar exercício além do previsto"
+          },
+          "en": {
+            "name": "Extra physical activity",
+            "description": "Exercise beyond what was planned"
+          }
+        }
+      },
+      {
+        "name": "Responsabilidade com dinheiro",
+        "description": "Guardar parte da mesada/valor recebido",
+        "points": 15,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Responsabilidade com dinheiro",
+            "description": "Guardar parte da mesada/valor recebido"
+          },
+          "en": {
+            "name": "Money responsibility",
+            "description": "Save part of allowance/money received"
+          }
+        }
+      }
+    ],
+    "punishments": [
+      {
+        "name": "Desrespeito consciente",
+        "description": "Responder ou agir de forma desrespeitosa",
+        "points": 12,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desrespeito consciente",
+            "description": "Responder ou agir de forma desrespeitosa"
+          },
+          "en": {
+            "name": "Conscious disrespect",
+            "description": "Respond or act disrespectfully"
+          }
+        }
+      },
+      {
+        "name": "Não cumprir tarefa doméstica",
+        "description": "Ignorar tarefa combinada",
+        "points": 10,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Não cumprir tarefa doméstica",
+            "description": "Ignorar tarefa combinada"
+          },
+          "en": {
+            "name": "Did not do household chore",
+            "description": "Ignore an agreed chore"
+          }
+        }
+      },
+      {
+        "name": "Atrasos repetidos",
+        "description": "Repetir atrasos em horários combinados",
+        "points": 10,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Atrasos repetidos",
+            "description": "Repetir atrasos em horários combinados"
+          },
+          "en": {
+            "name": "Repeated lateness",
+            "description": "Repeatedly be late to agreed times"
+          }
+        }
+      },
+      {
+        "name": "Quebra de regras de tela",
+        "description": "Usar dispositivo fora dos limites combinados",
+        "points": 11,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Quebra de regras de tela",
+            "description": "Usar dispositivo fora dos limites combinados"
+          },
+          "en": {
+            "name": "Break screen rules",
+            "description": "Use device beyond agreed limits"
+          }
+        }
+      },
+      {
+        "name": "Cópia/cola em tarefas",
+        "description": "Plágio ou desonestidade acadêmica",
+        "points": 14,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Cópia/cola em tarefas",
+            "description": "Plágio ou desonestidade acadêmica"
+          },
+          "en": {
+            "name": "Copy/paste in assignments",
+            "description": "Plagiarism or academic dishonesty"
+          }
+        }
+      },
+      {
+        "name": "Descuido com material",
+        "description": "Estragar ou perder materiais por descuido",
+        "points": 10,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Descuido com material",
+            "description": "Estragar ou perder materiais por descuido"
+          },
+          "en": {
+            "name": "Carelessness with materials",
+            "description": "Damage/lose materials due to carelessness"
+          }
+        }
+      },
+      {
+        "name": "Desorganização recorrente",
+        "description": "Deixar mochila e quarto bagunçados",
+        "points": 9,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desorganização recorrente",
+            "description": "Deixar mochila e quarto bagunçados"
+          },
+          "en": {
+            "name": "Recurring disorganization",
+            "description": "Leave backpack and room messy"
+          }
+        }
+      },
+      {
+        "name": "Provocar irmãos/colegas",
+        "description": "Provocar, debochar ou zombar",
+        "points": 12,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Provocar irmãos/colegas",
+            "description": "Provocar, debochar ou zombar"
+          },
+          "en": {
+            "name": "Tease siblings/classmates",
+            "description": "Provoke, sneer, or mock"
+          }
+        }
+      },
+      {
+        "name": "Desobedecer regras de segurança",
+        "description": "Brincar em área proibida/perigosa",
+        "points": 12,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desobedecer regras de segurança",
+            "description": "Brincar em área proibida/perigosa"
+          },
+          "en": {
+            "name": "Disobey safety rules",
+            "description": "Play in forbidden/dangerous areas"
+          }
+        }
+      },
+      {
+        "name": "Promessa não cumprida",
+        "description": "Descumprir um combinado importante",
+        "points": 11,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Promessa não cumprida",
+            "description": "Descumprir um combinado importante"
+          },
+          "en": {
+            "name": "Broken promise",
+            "description": "Fail to keep an important agreement"
+          }
+        }
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Tempo extra de tela (45 min)",
+        "description": "Mais tempo em jogo/série",
+        "points": 35,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "Tempo extra de tela (45 min)",
+            "description": "Mais tempo em jogo/série"
+          },
+          "en": {
+            "name": "Extra screen time (45 min)",
+            "description": "More time for games/shows"
+          }
+        }
+      },
+      {
+        "name": "Escolher atividade do fim de semana",
+        "description": "Passeio ou jogo em família",
+        "points": 60,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Escolher atividade do fim de semana",
+            "description": "Passeio ou jogo em família"
+          },
+          "en": {
+            "name": "Choose weekend activity",
+            "description": "Outing or family game"
+          }
+        }
+      },
+      {
+        "name": "Livro novo",
+        "description": "Escolher um livro",
+        "points": 60,
+        "type": "other",
+        "idioma": {
+          "pt": {
+            "name": "Livro novo",
+            "description": "Escolher um livro"
+          },
+          "en": {
+            "name": "New book",
+            "description": "Choose a book"
+          }
+        }
+      },
+      {
+        "name": "Jantar escolhido",
+        "description": "Escolher o cardápio do jantar",
+        "points": 45,
+        "type": "food",
+        "idioma": {
+          "pt": {
+            "name": "Jantar escolhido",
+            "description": "Escolher o cardápio do jantar"
+          },
+          "en": {
+            "name": "Chosen dinner",
+            "description": "Pick the dinner menu"
+          }
+        }
+      },
+      {
+        "name": "Kit de artes",
+        "description": "Materiais simples para um projeto criativo",
+        "points": 55,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Kit de artes",
+            "description": "Materiais simples para um projeto criativo"
+          },
+          "en": {
+            "name": "Arts kit",
+            "description": "Simple materials for a creative project"
+          }
+        }
+      },
+      {
+        "name": "Passeio esportivo",
+        "description": "Ir praticar um esporte preferido",
+        "points": 50,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Passeio esportivo",
+            "description": "Ir praticar um esporte preferido"
+          },
+          "en": {
+            "name": "Sports outing",
+            "description": "Go practice a favorite sport"
+          }
+        }
+      },
+      {
+        "name": "Novo acessório escolar",
+        "description": "Estojo/caderno/adesivos para a escola",
+        "points": 50,
+        "type": "other",
+        "idioma": {
+          "pt": {
+            "name": "Novo acessório escolar",
+            "description": "Estojo/caderno/adesivos para a escola"
+          },
+          "en": {
+            "name": "New school accessory",
+            "description": "Pencil case/notebook/stickers"
+          }
+        }
+      },
+      {
+        "name": "Sessão de cinema em casa",
+        "description": "Filme com pipoca em família",
+        "points": 40,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Sessão de cinema em casa",
+            "description": "Filme com pipoca em família"
+          },
+          "en": {
+            "name": "Home movie night",
+            "description": "Movie with popcorn at home"
+          }
+        }
+      },
+      {
+        "name": "Dormir mais tarde (até 1h)",
+        "description": "Ficar acordado um pouco a mais",
+        "points": 40,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "Dormir mais tarde (até 1h)",
+            "description": "Ficar acordado um pouco a mais"
+          },
+          "en": {
+            "name": "Stay up later (up to 1h)",
+            "description": "Stay awake a bit longer"
+          }
+        }
+      },
+      {
+        "name": "Brinquedo médio",
+        "description": "Item combinado de valor moderado",
+        "points": 70,
+        "type": "toy",
+        "idioma": {
+          "pt": {
+            "name": "Brinquedo médio",
+            "description": "Item combinado de valor moderado"
+          },
+          "en": {
+            "name": "Medium toy",
+            "description": "Agreed item of moderate value"
+          }
+        }
+      }
+    ]
+  },
+  "13-15": {
+    "tasks": [
+      {
+        "name": "Bloco de estudos (45–60 min)",
+        "description": "Estudar com foco e sem distrações",
+        "points": 14,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "15:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Bloco de estudos (45–60 min)",
+            "description": "Estudar com foco e sem distrações"
+          },
+          "en": {
+            "name": "Study block (45–60 min)",
+            "description": "Study with focus and without distractions"
+          }
+        }
+      },
+      {
+        "name": "Responsabilidade no quarto",
+        "description": "Manter quarto organizado diariamente",
+        "points": 10,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "09:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Responsabilidade no quarto",
+            "description": "Manter quarto organizado diariamente"
+          },
+          "en": {
+            "name": "Bedroom responsibility",
+            "description": "Keep bedroom organized daily"
+          }
+        }
+      },
+      {
+        "name": "Atividade física leve",
+        "description": "Caminhada, esporte ou exercício",
+        "points": 10,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "17:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Atividade física leve",
+            "description": "Caminhada, esporte ou exercício"
+          },
+          "en": {
+            "name": "Light physical activity",
+            "description": "Walk, sport, or exercise"
+          }
+        }
+      },
+      {
+        "name": "Ajudar em tarefa da casa",
+        "description": "Ex.: louça do jantar, varrer sala",
+        "points": 10,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "18:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Ajudar em tarefa da casa",
+            "description": "Ex.: louça do jantar, varrer sala"
+          },
+          "en": {
+            "name": "Help with a house chore",
+            "description": "E.g., dinner dishes, sweep the living room"
+          }
+        }
+      },
+      {
+        "name": "Planejamento semanal",
+        "description": "Definir metas e prazos da semana",
+        "points": 11,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "08:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Planejamento semanal",
+            "description": "Definir metas e prazos da semana"
+          },
+          "en": {
+            "name": "Weekly planning",
+            "description": "Set weekly goals and deadlines"
+          }
+        }
+      },
+      {
+        "name": "Tempo sem telas (1h)",
+        "description": "Atividade offline criativa/leitora",
+        "points": 11,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "20:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Tempo sem telas (1h)",
+            "description": "Atividade offline criativa/leitora"
+          },
+          "en": {
+            "name": "Screen‑free time (1h)",
+            "description": "Offline creative/reading activity"
+          }
+        }
+      },
+      {
+        "name": "Prática de habilidade",
+        "description": "Estudar música, idioma, código etc.",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "16:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Prática de habilidade",
+            "description": "Estudar música, idioma, código etc."
+          },
+          "en": {
+            "name": "Skill practice",
+            "description": "Practice music, language, coding, etc."
+          }
+        }
+      },
+      {
+        "name": "Organização financeira",
+        "description": "Registrar gastos/mesada e poupar parte",
+        "points": 11,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "10:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Organização financeira",
+            "description": "Registrar gastos/mesada e poupar parte"
+          },
+          "en": {
+            "name": "Financial organization",
+            "description": "Track expenses/allowance and save a part"
+          }
+        }
+      },
+      {
+        "name": "Autocuidado e higiene",
+        "description": "Rotina de banho, pele, cabelo",
+        "points": 10,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "19:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Autocuidado e higiene",
+            "description": "Rotina de banho, pele, cabelo"
+          },
+          "en": {
+            "name": "Self‑care and hygiene",
+            "description": "Bath, skin, and hair routine"
+          }
+        }
+      },
+      {
+        "name": "Apoio à família",
+        "description": "Ajudar alguém em casa de forma útil",
+        "points": 10,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "17:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Apoio à família",
+            "description": "Ajudar alguém em casa de forma útil"
+          },
+          "en": {
+            "name": "Family support",
+            "description": "Help someone at home in a useful way"
+          }
+        }
+      }
+    ],
+    "bonuses": [
+      {
+        "name": "Proatividade nos estudos",
+        "description": "Rever matéria, fazer resumo extra",
+        "points": 20,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Proatividade nos estudos",
+            "description": "Rever matéria, fazer resumo extra"
+          },
+          "en": {
+            "name": "Proactive studying",
+            "description": "Review content, make an extra summary"
+          }
+        }
+      },
+      {
+        "name": "Mediação de conflito",
+        "description": "Ajudar a resolver conflito com maturidade",
+        "points": 18,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Mediação de conflito",
+            "description": "Ajudar a resolver conflito com maturidade"
+          },
+          "en": {
+            "name": "Conflict mediation",
+            "description": "Help resolve a conflict maturely"
+          }
+        }
+      },
+      {
+        "name": "Projeto autoral",
+        "description": "Criar um projeto pessoal e concluir etapa",
+        "points": 20,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Projeto autoral",
+            "description": "Criar um projeto pessoal e concluir etapa"
+          },
+          "en": {
+            "name": "Personal project",
+            "description": "Create a personal project and complete a milestone"
+          }
+        }
+      },
+      {
+        "name": "Apoio a colegas/irmãos",
+        "description": "Ajudar em tarefa difícil com paciência",
+        "points": 18,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Apoio a colegas/irmãos",
+            "description": "Ajudar em tarefa difícil com paciência"
+          },
+          "en": {
+            "name": "Support peers/siblings",
+            "description": "Help with a difficult task patiently"
+          }
+        }
+      },
+      {
+        "name": "Gestão do tempo exemplar",
+        "description": "Cumprir prazos sem deixar para última hora",
+        "points": 19,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Gestão do tempo exemplar",
+            "description": "Cumprir prazos sem deixar para última hora"
+          },
+          "en": {
+            "name": "Exemplary time management",
+            "description": "Meet deadlines without procrastination"
+          }
+        }
+      },
+      {
+        "name": "Saúde e bem‑estar",
+        "description": "Cumprir plano de sono/atividade física",
+        "points": 18,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Saúde e bem‑estar",
+            "description": "Cumprir plano de sono/atividade física"
+          },
+          "en": {
+            "name": "Health and wellness",
+            "description": "Stick to sleep/physical activity plan"
+          }
+        }
+      },
+      {
+        "name": "Responsabilidade digital",
+        "description": "Usar redes com respeito e segurança",
+        "points": 18,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Responsabilidade digital",
+            "description": "Usar redes com respeito e segurança"
+          },
+          "en": {
+            "name": "Digital responsibility",
+            "description": "Use social media with respect and safety"
+          }
+        }
+      },
+      {
+        "name": "Leitura de aprofundamento",
+        "description": "Ler capítulo/artigo além do proposto",
+        "points": 17,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Leitura de aprofundamento",
+            "description": "Ler capítulo/artigo além do proposto"
+          },
+          "en": {
+            "name": "In‑depth reading",
+            "description": "Read a chapter/article beyond what was assigned"
+          }
+        }
+      },
+      {
+        "name": "Voluntariado/ajuda comunitária",
+        "description": "Apoiar iniciativa local ou escolar",
+        "points": 20,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Voluntariado/ajuda comunitária",
+            "description": "Apoiar iniciativa local ou escolar"
+          },
+          "en": {
+            "name": "Volunteering/community help",
+            "description": "Support a local or school initiative"
+          }
+        }
+      },
+      {
+        "name": "Autocontrole emocional",
+        "description": "Lidar com frustração sem explosões",
+        "points": 18,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Autocontrole emocional",
+            "description": "Lidar com frustração sem explosões"
+          },
+          "en": {
+            "name": "Emotional self‑control",
+            "description": "Handle frustration without outbursts"
+          }
+        }
+      }
+    ],
+    "punishments": [
+      {
+        "name": "Faltar com respeito",
+        "description": "Ironia, grosseria, xingamentos",
+        "points": 14,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Faltar com respeito",
+            "description": "Ironia, grosseria, xingamentos"
+          },
+          "en": {
+            "name": "Disrespect",
+            "description": "Sarcasm, rudeness, insults"
+          }
+        }
+      },
+      {
+        "name": "Descumprir acordos",
+        "description": "Não cumprir combinados de casa/estudo",
+        "points": 12,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Descumprir acordos",
+            "description": "Não cumprir combinados de casa/estudo"
+          },
+          "en": {
+            "name": "Break agreements",
+            "description": "Fail to follow home/study agreements"
+          }
+        }
+      },
+      {
+        "name": "Plágio/desonestidade acadêmica",
+        "description": "Copiar trabalho/tarefa de terceiros",
+        "points": 16,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Plágio/desonestidade acadêmica",
+            "description": "Copiar trabalho/tarefa de terceiros"
+          },
+          "en": {
+            "name": "Plagiarism/academic dishonesty",
+            "description": "Copy others’ work/assignments"
+          }
+        }
+      },
+      {
+        "name": "Abuso de telas",
+        "description": "Ultrapassar limites de tempo de forma consciente",
+        "points": 13,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Abuso de telas",
+            "description": "Ultrapassar limites de tempo de forma consciente"
+          },
+          "en": {
+            "name": "Screen overuse",
+            "description": "Knowingly exceed time limits"
+          }
+        }
+      },
+      {
+        "name": "Risco à segurança",
+        "description": "Prática perigosa (ex.: pegar carona sem avisar)",
+        "points": 17,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Risco à segurança",
+            "description": "Prática perigosa (ex.: pegar carona sem avisar)"
+          },
+          "en": {
+            "name": "Safety risk",
+            "description": "Dangerous practice (e.g., leaving without notice)"
+          }
+        }
+      },
+      {
+        "name": "Bullying/hostilidade online",
+        "description": "Ofensas, exposição ou exclusão de colegas",
+        "points": 16,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Bullying/hostilidade online",
+            "description": "Ofensas, exposição ou exclusão de colegas"
+          },
+          "en": {
+            "name": "Bullying/online hostility",
+            "description": "Offenses, exposure, or exclusion of peers"
+          }
+        }
+      },
+      {
+        "name": "Quebra de confiança",
+        "description": "Mentir para evitar consequências importantes",
+        "points": 15,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Quebra de confiança",
+            "description": "Mentir para evitar consequências importantes"
+          },
+          "en": {
+            "name": "Breach of trust",
+            "description": "Lie to avoid important consequences"
+          }
+        }
+      },
+      {
+        "name": "Desleixo com tarefas de casa",
+        "description": "Não realizar tarefas atribuídas repetidamente",
+        "points": 13,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desleixo com tarefas de casa",
+            "description": "Não realizar tarefas atribuídas repetidamente"
+          },
+          "en": {
+            "name": "Neglect home chores",
+            "description": "Repeatedly not perform assigned chores"
+          }
+        }
+      },
+      {
+        "name": "Danos intencionais",
+        "description": "Quebrar/riscar algo de propósito",
+        "points": 16,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Danos intencionais",
+            "description": "Quebrar/riscar algo de propósito"
+          },
+          "en": {
+            "name": "Intentional damage",
+            "description": "Break/scratch something on purpose"
+          }
+        }
+      },
+      {
+        "name": "Desrespeito a limites pessoais",
+        "description": "Invadir privacidade/limites de familiares",
+        "points": 15,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desrespeito a limites pessoais",
+            "description": "Invadir privacidade/limites de familiares"
+          },
+          "en": {
+            "name": "Disrespecting personal boundaries",
+            "description": "Invade family members’ privacy/boundaries"
+          }
+        }
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Tempo de jogo extra (1h)",
+        "description": "Jogar videogame por mais uma hora",
+        "points": 45,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "Tempo de jogo extra (1h)",
+            "description": "Jogar videogame por mais uma hora"
+          },
+          "en": {
+            "name": "Extra game time (1h)",
+            "description": "Play video games for one more hour"
+          }
+        }
+      },
+      {
+        "name": "Compra de item desejado",
+        "description": "Acordado previamente (valor moderado)",
+        "points": 90,
+        "type": "money",
+        "idioma": {
+          "pt": {
+            "name": "Compra de item desejado",
+            "description": "Acordado previamente (valor moderado)"
+          },
+          "en": {
+            "name": "Purchase desired item",
+            "description": "Pre‑agreed item (moderate value)"
+          }
+        }
+      },
+      {
+        "name": "Passeio com amigos",
+        "description": "Atividade de lazer combinada",
+        "points": 80,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Passeio com amigos",
+            "description": "Atividade de lazer combinada"
+          },
+          "en": {
+            "name": "Outing with friends",
+            "description": "Agreed leisure activity"
+          }
+        }
+      },
+      {
+        "name": "Ingresso para evento escolar",
+        "description": "Show/feira/atividade especial",
+        "points": 70,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Ingresso para evento escolar",
+            "description": "Show/feira/atividade especial"
+          },
+          "en": {
+            "name": "School event ticket",
+            "description": "Show/fair/special activity"
+          }
+        }
+      },
+      {
+        "name": "Curso/atividade curta",
+        "description": "Aula única de interesse (ex.: culinária)",
+        "points": 85,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Curso/atividade curta",
+            "description": "Aula única de interesse (ex.: culinária)"
+          },
+          "en": {
+            "name": "Short course/activity",
+            "description": "One‑off class of interest (e.g., cooking)"
+          }
+        }
+      },
+      {
+        "name": "Acessório tecnológico",
+        "description": "Fone simples, cabo novo, etc.",
+        "points": 75,
+        "type": "money",
+        "idioma": {
+          "pt": {
+            "name": "Acessório tecnológico",
+            "description": "Fone simples, cabo novo, etc."
+          },
+          "en": {
+            "name": "Tech accessory",
+            "description": "Simple earphones, new cable, etc."
+          }
+        }
+      },
+      {
+        "name": "Roupa/acessório",
+        "description": "Peça combinada de valor moderado",
+        "points": 85,
+        "type": "money",
+        "idioma": {
+          "pt": {
+            "name": "Roupa/acessório",
+            "description": "Peça combinada de valor moderado"
+          },
+          "en": {
+            "name": "Clothing/accessory",
+            "description": "Agreed clothing/accessory of moderate value"
+          }
+        }
+      },
+      {
+        "name": "Dia de escolha em família",
+        "description": "Escolher programação do dia em casa",
+        "points": 60,
+        "type": "privilege",
+        "idioma": {
+          "pt": {
+            "name": "Dia de escolha em família",
+            "description": "Escolher programação do dia em casa"
+          },
+          "en": {
+            "name": "Family choice day",
+            "description": "Choose the day’s plan at home"
+          }
+        }
+      },
+      {
+        "name": "Livraria/papelaria",
+        "description": "Crédito para escolher materiais",
+        "points": 70,
+        "type": "money",
+        "idioma": {
+          "pt": {
+            "name": "Livraria/papelaria",
+            "description": "Crédito para escolher materiais"
+          },
+          "en": {
+            "name": "Bookstore/stationery",
+            "description": "Credit to pick materials"
+          }
+        }
+      },
+      {
+        "name": "Assinatura de app/serviço (1 mês)",
+        "description": "App educativo/entretenimento",
+        "points": 95,
+        "type": "money",
+        "idioma": {
+          "pt": {
+            "name": "Assinatura de app/serviço (1 mês)",
+            "description": "App educativo/entretenimento"
+          },
+          "en": {
+            "name": "App/service subscription (1 month)",
+            "description": "Educational/entertainment app"
+          }
+        }
+      }
+    ]
+  },
+  "16+": {
+    "tasks": [
+      {
+        "name": "Estudos/Preparatório (60–90 min)",
+        "description": "Rotina de estudos focada (ENEM/vestibular)",
+        "points": 16,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "15:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Estudos/Preparatório (60–90 min)",
+            "description": "Rotina de estudos focada (ENEM/vestibular)"
+          },
+          "en": {
+            "name": "Study/Prep (60–90 min)",
+            "description": "Focused study routine (exam prep)"
+          }
+        }
+      },
+      {
+        "name": "Tarefa doméstica fixa",
+        "description": "Ex.: preparar uma refeição simples ou cuidar do lixo",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "18:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Tarefa doméstica fixa",
+            "description": "Ex.: preparar uma refeição simples ou cuidar do lixo"
+          },
+          "en": {
+            "name": "Fixed household task",
+            "description": "E.g., prepare a simple meal or take out trash"
+          }
+        }
+      },
+      {
+        "name": "Autogestão do tempo",
+        "description": "Planejar o dia e cumprir horários",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "08:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Autogestão do tempo",
+            "description": "Planejar o dia e cumprir horários"
+          },
+          "en": {
+            "name": "Time self‑management",
+            "description": "Plan the day and follow schedules"
+          }
+        }
+      },
+      {
+        "name": "Atividade física",
+        "description": "Treino, esporte ou caminhada",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "17:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Atividade física",
+            "description": "Treino, esporte ou caminhada"
+          },
+          "en": {
+            "name": "Physical activity",
+            "description": "Workout, sport, or walk"
+          }
+        }
+      },
+      {
+        "name": "Leitura de aprofundamento (30 min)",
+        "description": "Livro técnico/atualidades",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "20:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Leitura de aprofundamento (30 min)",
+            "description": "Livro técnico/atualidades"
+          },
+          "en": {
+            "name": "Deep reading (30 min)",
+            "description": "Technical book/current affairs"
+          }
+        }
+      },
+      {
+        "name": "Organização de estudos",
+        "description": "Revisar metas e materiais da semana",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "10:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Organização de estudos",
+            "description": "Revisar metas e materiais da semana"
+          },
+          "en": {
+            "name": "Study organization",
+            "description": "Review weekly goals and materials"
+          }
+        }
+      },
+      {
+        "name": "Sono de qualidade",
+        "description": "Cumprir horário e higiene do sono",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "22:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Sono de qualidade",
+            "description": "Cumprir horário e higiene do sono"
+          },
+          "en": {
+            "name": "Quality sleep",
+            "description": "Follow sleep schedule and hygiene"
+          }
+        }
+      },
+      {
+        "name": "Planejamento financeiro",
+        "description": "Anotar gastos e reservar poupança",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "11:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Planejamento financeiro",
+            "description": "Anotar gastos e reservar poupança"
+          },
+          "en": {
+            "name": "Financial planning",
+            "description": "Track expenses and set aside savings"
+          }
+        }
+      },
+      {
+        "name": "Cuidar da casa",
+        "description": "Arrumar um cômodo/área diariamente",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "16:30:00",
+        "idioma": {
+          "pt": {
+            "name": "Cuidar da casa",
+            "description": "Arrumar um cômodo/área diariamente"
+          },
+          "en": {
+            "name": "Home care",
+            "description": "Tidy a room/area daily"
+          }
+        }
+      },
+      {
+        "name": "Apoio consistente à família",
+        "description": "Ajudar em demandas domésticas relevantes",
+        "points": 12,
+        "type": "daily",
+        "weekdays": [
+          "mon",
+          "tue",
+          "wed",
+          "thu",
+          "fri"
+        ],
+        "tasktime": "18:00:00",
+        "idioma": {
+          "pt": {
+            "name": "Apoio consistente à família",
+            "description": "Ajudar em demandas domésticas relevantes"
+          },
+          "en": {
+            "name": "Consistent family support",
+            "description": "Help with relevant home demands"
+          }
+        }
+      }
+    ],
+    "bonuses": [
+      {
+        "name": "Projeto pessoal concluído",
+        "description": "Curso online, certificado, portfólio",
+        "points": 25,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Projeto pessoal concluído",
+            "description": "Curso online, certificado, portfólio"
+          },
+          "en": {
+            "name": "Personal project completed",
+            "description": "Online course, certificate, portfolio"
+          }
+        }
+      },
+      {
+        "name": "Apoio à família",
+        "description": "Ajudar significativamente algum familiar",
+        "points": 20,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Apoio à família",
+            "description": "Ajudar significativamente algum familiar"
+          },
+          "en": {
+            "name": "Support to family",
+            "description": "Significantly help a family member"
+          }
+        }
+      },
+      {
+        "name": "Resultado acadêmico destacado",
+        "description": "Ótima nota/aprovação em simulado",
+        "points": 22,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Resultado acadêmico destacado",
+            "description": "Ótima nota/aprovação em simulado"
+          },
+          "en": {
+            "name": "Outstanding academic result",
+            "description": "Great grade/mock exam approval"
+          }
+        }
+      },
+      {
+        "name": "Trabalho/estágio exemplar",
+        "description": "Cumprir metas e receber elogio",
+        "points": 23,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Trabalho/estágio exemplar",
+            "description": "Cumprir metas e receber elogio"
+          },
+          "en": {
+            "name": "Exemplary work/internship",
+            "description": "Meet goals and receive praise"
+          }
+        }
+      },
+      {
+        "name": "Hábito saudável mantido",
+        "description": "Ex.: 7 dias de treino/sono consistente",
+        "points": 21,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Hábito saudável mantido",
+            "description": "Ex.: 7 dias de treino/sono consistente"
+          },
+          "en": {
+            "name": "Healthy habit maintained",
+            "description": "E.g., 7 days of consistent training/sleep"
+          }
+        }
+      },
+      {
+        "name": "Gestão de tempo avançada",
+        "description": "Planejar semana e cumprir 90%",
+        "points": 22,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Gestão de tempo avançada",
+            "description": "Planejar semana e cumprir 90%"
+          },
+          "en": {
+            "name": "Advanced time management",
+            "description": "Plan the week and meet 90% of it"
+          }
+        }
+      },
+      {
+        "name": "Mentoria/ajuda a alguém",
+        "description": "Ajudar um colega a aprender algo",
+        "points": 20,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Mentoria/ajuda a alguém",
+            "description": "Ajudar um colega a aprender algo"
+          },
+          "en": {
+            "name": "Mentor/help someone",
+            "description": "Help a peer learn something"
+          }
+        }
+      },
+      {
+        "name": "Conquista de carteira/ CNH (etapa)",
+        "description": "Passar em uma fase do processo",
+        "points": 24,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Conquista de carteira/ CNH (etapa)",
+            "description": "Passar em uma fase do processo"
+          },
+          "en": {
+            "name": "Driver’s license milestone",
+            "description": "Pass a phase of the process"
+          }
+        }
+      },
+      {
+        "name": "Contribuição comunitária",
+        "description": "Participar de ação voluntária",
+        "points": 22,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Contribuição comunitária",
+            "description": "Participar de ação voluntária"
+          },
+          "en": {
+            "name": "Community contribution",
+            "description": "Take part in a volunteer action"
+          }
+        }
+      },
+      {
+        "name": "Economia planejada",
+        "description": "Guardar % da renda/mesada por 1 mês",
+        "points": 21,
+        "type": "bonus",
+        "idioma": {
+          "pt": {
+            "name": "Economia planejada",
+            "description": "Guardar % da renda/mesada por 1 mês"
+          },
+          "en": {
+            "name": "Planned savings",
+            "description": "Save % of income/allowance for a month"
+          }
+        }
+      }
+    ],
+    "punishments": [
+      {
+        "name": "Quebrar combinados essenciais",
+        "description": "Descumprir regras de casa/estudos",
+        "points": 15,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Quebrar combinados essenciais",
+            "description": "Descumprir regras de casa/estudos"
+          },
+          "en": {
+            "name": "Break essential agreements",
+            "description": "Fail to follow home/study rules"
+          }
+        }
+      },
+      {
+        "name": "Desrespeito grave",
+        "description": "Conduta desrespeitosa reiterada",
+        "points": 18,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desrespeito grave",
+            "description": "Conduta desrespeitosa reiterada"
+          },
+          "en": {
+            "name": "Serious disrespect",
+            "description": "Repeated disrespectful behavior"
+          }
+        }
+      },
+      {
+        "name": "Plágio/cópia em avaliações",
+        "description": "Fraude acadêmica",
+        "points": 20,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Plágio/cópia em avaliações",
+            "description": "Fraude acadêmica"
+          },
+          "en": {
+            "name": "Plagiarism/cheating",
+            "description": "Academic fraud"
+          }
+        }
+      },
+      {
+        "name": "Risco à segurança pessoal",
+        "description": "Conduta perigosa (ex.: dirigir sem habilitação)",
+        "points": 20,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Risco à segurança pessoal",
+            "description": "Conduta perigosa (ex.: dirigir sem habilitação)"
+          },
+          "en": {
+            "name": "Personal safety risk",
+            "description": "Dangerous conduct (e.g., driving unlicensed)"
+          }
+        }
+      },
+      {
+        "name": "Abuso de telas/mídias",
+        "description": "Uso excessivo com prejuízo às tarefas",
+        "points": 16,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Abuso de telas/mídias",
+            "description": "Uso excessivo com prejuízo às tarefas"
+          },
+          "en": {
+            "name": "Screen/media overuse",
+            "description": "Excessive use harming tasks"
+          }
+        }
+      },
+      {
+        "name": "Quebra de confiança séria",
+        "description": "Mentiras ou omissões relevantes",
+        "points": 18,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Quebra de confiança séria",
+            "description": "Mentiras ou omissões relevantes"
+          },
+          "en": {
+            "name": "Serious breach of trust",
+            "description": "Significant lies or omissions"
+          }
+        }
+      },
+      {
+        "name": "Descumprir prazos importantes",
+        "description": "Deixar de entregar trabalho/projeto",
+        "points": 17,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Descumprir prazos importantes",
+            "description": "Deixar de entregar trabalho/projeto"
+          },
+          "en": {
+            "name": "Miss important deadlines",
+            "description": "Fail to deliver work/project"
+          }
+        }
+      },
+      {
+        "name": "Desrespeito a limites legais",
+        "description": "Descumprir regras legais básicas",
+        "points": 20,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Desrespeito a limites legais",
+            "description": "Descumprir regras legais básicas"
+          },
+          "en": {
+            "name": "Disrespect legal boundaries",
+            "description": "Break basic legal rules"
+          }
+        }
+      },
+      {
+        "name": "Danos intencionais a patrimônio",
+        "description": "Danificar algo de propósito",
+        "points": 19,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Danos intencionais a patrimônio",
+            "description": "Danificar algo de propósito"
+          },
+          "en": {
+            "name": "Intentional property damage",
+            "description": "Damage something on purpose"
+          }
+        }
+      },
+      {
+        "name": "Má convivência familiar",
+        "description": "Agressividade verbal recorrente",
+        "points": 16,
+        "type": "punishment",
+        "idioma": {
+          "pt": {
+            "name": "Má convivência familiar",
+            "description": "Agressividade verbal recorrente"
+          },
+          "en": {
+            "name": "Poor family coexistence",
+            "description": "Recurrent verbal aggressiveness"
+          }
+        }
+      }
+    ],
+    "rewards": [
+      {
+        "name": "Tempo extra de tela (90 min)",
+        "description": "Mais tempo de lazer em telas",
+        "points": 60,
+        "type": "time",
+        "idioma": {
+          "pt": {
+            "name": "Tempo extra de tela (90 min)",
+            "description": "Mais tempo de lazer em telas"
+          },
+          "en": {
+            "name": "Extra screen time (90 min)",
+            "description": "More leisure screen time"
+          }
+        }
+      },
+      {
+        "name": "Passeio especial",
+        "description": "Atividade de lazer escolhida",
+        "points": 100,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Passeio especial",
+            "description": "Atividade de lazer escolhida"
+          },
+          "en": {
+            "name": "Special outing",
+            "description": "Chosen leisure activity"
+          }
+        }
+      },
+      {
+        "name": "Aquisição planejada",
+        "description": "Item de maior valor previamente combinado",
+        "points": 120,
+        "type": "money",
+        "idioma": {
+          "pt": {
+            "name": "Aquisição planejada",
+            "description": "Item de maior valor previamente combinado"
+          },
+          "en": {
+            "name": "Planned purchase",
+            "description": "Higher‑value item agreed beforehand"
+          }
+        }
+      },
+      {
+        "name": "Curso/associação (1 mês)",
+        "description": "Acesso a curso/plataforma de interesse",
+        "points": 110,
+        "type": "activity",
+        "idioma": {
+          "pt": {
+            "name": "Curso/associação (1 mês)",
+            "description": "Acesso a curso/plataforma de interesse"
+          },
+          "en": {
+            "name": "Course/membership (1 month)",
+            "description": "Access to a course/platform of interest"
+          }
+        }
+      },
+      {
+        "name": "Evento com amigos",
+        "description": "Cinema/show/atividade combinada",
+        "points": 90,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Evento com amigos",
+            "description": "Cinema/show/atividade combinada"
+          },
+          "en": {
+            "name": "Event with friends",
+            "description": "Movie/show/agreed activity"
+          }
+        }
+      },
+      {
+        "name": "Upgrade tecnológico",
+        "description": "Melhorar acessório/equipamento",
+        "points": 115,
+        "type": "money",
+        "idioma": {
+          "pt": {
+            "name": "Upgrade tecnológico",
+            "description": "Melhorar acessório/equipamento"
+          },
+          "en": {
+            "name": "Tech upgrade",
+            "description": "Improve an accessory/equipment"
+          }
+        }
+      },
+      {
+        "name": "Dia livre planejado",
+        "description": "Dia com agenda definida pelo jovem",
+        "points": 95,
+        "type": "privilege",
+        "idioma": {
+          "pt": {
+            "name": "Dia livre planejado",
+            "description": "Dia com agenda definida pelo jovem"
+          },
+          "en": {
+            "name": "Planned free day",
+            "description": "Day with a schedule defined by the teen"
+          }
+        }
+      },
+      {
+        "name": "Viagem curta/local",
+        "description": "Passeio bate‑volta planejado",
+        "points": 130,
+        "type": "outing",
+        "idioma": {
+          "pt": {
+            "name": "Viagem curta/local",
+            "description": "Passeio bate‑volta planejado"
+          },
+          "en": {
+            "name": "Short/local trip",
+            "description": "Planned day trip"
+          }
+        }
+      },
+      {
+        "name": "Crédito para livraria/papelaria",
+        "description": "Valor para livros/materiais",
+        "points": 100,
+        "type": "money",
+        "idioma": {
+          "pt": {
+            "name": "Crédito para livraria/papelaria",
+            "description": "Valor para livros/materiais"
+          },
+          "en": {
+            "name": "Bookstore/stationery credit",
+            "description": "Amount for books/materials"
+          }
+        }
+      },
+      {
+        "name": "Experiência gastronômica",
+        "description": "Ir a um lugar escolhido para comer",
+        "points": 95,
+        "type": "food",
+        "idioma": {
+          "pt": {
+            "name": "Experiência gastronômica",
+            "description": "Ir a um lugar escolhido para comer"
+          },
+          "en": {
+            "name": "Gastronomic experience",
+            "description": "Go eat at a chosen place"
+          }
+        }
+      }
+    ]
+  }
+}
